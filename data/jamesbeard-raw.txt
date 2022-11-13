@@ -1,1254 +1,23 @@
 
 // grabbed on nov 12, 2022
-// JAMES BEARD RESTAURANT & CHEF WINNERS 
+// JAMES BEARD RESTAURANT & CHEF S 
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=5
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=5
 
-Doug Shafer
 
-Outstanding Wine & Spirits Professional
 
-Shafer Vineyards
 
-Napa, California
 
-Restaurant & Chef
 
-Winner
 
-2010
 
-Koren Grieveson
 
-Best Chef: Great Lakes
-
-Avec
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Wayne Kostroski
-
-Humanitarian of the Year
-
-Winner
-
-2010
-
-Tom Colicchio
-
-Outstanding Chef
-
-Craft
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Michael Batterberry
-
-Lifetime Achievement
-
-Founders, "Food & Wine" and "Food Arts"
-
-New York, New York
-
-Winner
-
-2010
-
-Ariane Batterberry
-
-Lifetime Achievement
-
-Founders, "Food & Wine" and "Food Arts"
-
-New York, New York
-
-Winner
-
-2010
-
-Jean Georges
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Pandiscio Co.
-
-Outstanding Restaurant Graphics
-
-The Standard Grill
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Jessica Harris
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2010
-
-Keith McNally
-
-Outstanding Restaurateur
-
-Balthazar, Lucky Strike, Minetta Tavern, Morandi, Pastis, Pravda, and Schiller's Liquor Bar
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Leah Chase
-
-Who's Who of Food & Beverage in America
-
-New Orleans, Louisiana
-
-Winner
-
-2010
-
-Gustavus Inn
-
-America's Classics
-
-Gustavus, Alaska
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Daniel
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Jeff Michaud
-
-Best Chef: Mid-Atlantic
-
-Osteria
-
-Philadelphia, Pennsylvania
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Marea
-
-Best New Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Calumet Fisheries
-
-America's Classics
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-The Bright Star
-
-America's Classics
-
-Bessemer, Alabama
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Michael Schwartz
-
-Best Chef: South
-
-Michael's Genuine Food and Drink
-
-Miami, Florida
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Sean Brock
-
-Best Chef: Southeast
-
-McCrady's
-
-Charleston, South Carolina
-
-Restaurant & Chef
-
-Winner
-
-2010
-
-Gabriel Kreuther
-
-Best Chef: New York City
-
-The Modern
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Ella Brennan
-
-Lifetime Achievement
-
-New Orleans, Louisiana
-
-Winner
-
-2009
-
-Momofuku Ko
-
-Best New Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Jean Georges
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Dorothy Hamilton
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2009
-
-Breitbach's Country Dining
-
-America's Classics
-
-Sherrill, Iowa
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Breitbach's Country Dining
-
-America's Classics
-
-Sherrill, Iowa
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Arnold's Country Kitchen
-
-America's Classics
-
-Nashville, Tennessee
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Arnold's Country Kitchen
-
-America's Classics
-
-Nashville, Tennessee
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Nate Appleman
-
-Rising Star Chef of the Year
-
-A16
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Restaurant Daniel
-
-Outstanding Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Le Bernardin
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Jose Garces
-
-Best Chef: Mid-Atlantic
-
-Amada
-
-Philadelphia, Pennsylvania
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Jean Georges
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Betty Fussell
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2009
-
-Daniel
-
-Outstanding Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Mustache Bill's Diner
-
-America's Classics
-
-Barnegat Light, New Jersey
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Korn Design
-
-Outstanding Restaurant Graphics
-
-The Corner Office
-
-Denver, Colorado
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Jean Georges
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Robert Evans
-
-Best Chef: Northeast
-
-Hugo's
-
-Portland, Maine
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Vicki Escarra
-
-Humanitarian of the Year
-
-Winner
-
-2009
-
-John Edge
-
-Who's Who of Food & Beverage in America
-
-Oxford, Mississippi
-
-Winner
-
-2009
-
-Cindy Wolf
-
-Who's Who of Food & Beverage in America
-
-Winner
-
-2009
-
-Michael Lata
-
-Best Chef: Southeast
-
-Fig
-
-Charleston, South Carolina
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Gina DePalma
-
-Outstanding Pastry Chef
-
-Babbo
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Dale Degroff
-
-Outstanding Wine & Spirits Professional
-
-Dale DeGroff Co., Inc.
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Korn Design
-
-Outstanding Restaurant Graphics
-
-The Corner Office
-
-Denver, Colorado
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Le Bernardin
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Le Bernardin
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-John Currence
-
-Best Chef: South
-
-City Grocery
-
-Oxford, Mississippi
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Korn Design
-
-Outstanding Restaurant Graphics
-
-The Corner Office
-
-Denver, Colorado
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Douglas Keane
-
-Best Chef: Pacific
-
-Cyrus
-
-Healdsburg, California
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Drew Nieporent
-
-Outstanding Restaurateur
-
-Myriad Restaurant Group
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Totonno's
-
-America's Classics
-
-Brooklyn, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Yank Sing
-
-America's Classics
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Clark Wolf
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2009
-
-Tim McKee
-
-Best Chef: Midwest
-
-La Belle Vie
-
-Minneapolis, Minnesota
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Michael Symon
-
-Best Chef: Great Lakes
-
-Lola
-
-Cleveland, Ohio
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Paul Bartolotta
-
-Best Chef: Southwest
-
-Bartolotta Ristorante di Mare at Wynn Las Vegas
-
-Las Vegas, Nevada
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Momofuku Ko
-
-Best New Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Yank Sing
-
-America's Classics
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Momofuku Ko
-
-Best New Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Maria Hines
-
-Best Chef: Northwest
-
-Tilth
-
-Seattle, Washington
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-David Burke
-
-Who's Who of Food & Beverage in America
-
-Winner
-
-2009
-
-Totonno's
-
-America's Classics
-
-Brooklyn, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Dan Barber
-
-Outstanding Chef
-
-Blue Hill
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2009
-
-Dan Barber
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2008
-
-Eleven Madison Park
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Robert Stehling
-
-Best Chef: Southeast
-
-Hominy Grill
-
-Charleston, South Carolina
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Zanne Stewart
-
-Who's Who of Food & Beverage in America
-
-Garrison, New York
-
-Winner
-
-2008
-
-Bagaduce Lunch
-
-America's Classics
-
-Brooksville, Maine
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Terra
-
-Outstanding Service
-
-St. Helena, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Terra
-
-Outstanding Service
-
-St. Helena, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Gavin Kaysen
-
-Rising Star Chef of the Year
-
-Cafe Boulud
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Fritz Maytag
-
-Lifetime Achievement
-
-San Francisco, California
-
-Winner
-
-2008
-
-Irma's Restaurant
-
-America's Classics
-
-Houston, Texas
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Elisabeth Prueitt
-
-Outstanding Pastry Chef
-
-Tartine Bakery
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Anthony Bourdain
-
-Who's Who of Food & Beverage in America
-
-New York, New York
-
-Winner
-
-2008
-
-Gramercy Tavern
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Robert Louey Design
-
-Outstanding Restaurant Graphics
-
-Sepia
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Jumbo's
-
-America's Classics
-
-Miami, Florida
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Nancy Oakes
-
-Who's Who of Food & Beverage in America
-
-San Francisco, California
-
-Winner
-
-2008
-
-Gramercy Tavern
-
-Outstanding Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Holly Smith
-
-Best Chef: Northwest
-
-Cafe Juanita
-
-Kirkland, Washington
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Tadao Ando Architects and Associates
-
-Outstanding Restaurant Design
-
-Morimoto, NYC
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Terra
-
-Outstanding Service
-
-St. Helena, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Anthos
-
-Best New Restaurant
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Craig Stoll
-
-Best Chef: Pacific
-
-Delfina
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Tufano's Vernon Park Tap
-
-America's Classics
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Michelle Bernstein
-
-Best Chef: South
-
-Michy's
-
-Miami, Florida
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Maneki
-
-America's Classics
-
-Seattle, Washington
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Chad Robertson
-
-Outstanding Pastry Chef
-
-Tartine Bakery
-
-San Francisco, California
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Adam Siegel
-
-Best Chef: Midwest
-
-Bartolotta's Lake Park Bistro
-
-Milwaukee, Wisconsin
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Carrie Nahabedian
-
-Best Chef: Great Lakes
-
-Naha
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Eleven Madison Park
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Patrick Connolly
-
-Best Chef: Northeast
-
-Radius
-
-Boston, Massachusetts
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Grant Achatz
-
-Outstanding Chef
-
-Alinea
-
-Chicago, Illinois
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Central Michel Richard
-
-Best New Restaurant
-
-Washington, District of Columbia
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Central Michel Richard
-
-Best New Restaurant
-
-Washington, District of Columbia
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Terry Theise
-
-Outstanding Wine & Spirits Professional
-
-Terry Theise Estate Selections
-
-Silver Springs, Maryland
-
-Restaurant & Chef
-
-Winner
-
-2008
-
-Eleven Madison Park
-
-Outstanding Wine Service
-
-New York, New York
-
-Restaurant & Chef
-
-Winner
-
-2008
 
 
 
 /////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=6
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=6
 
 
 
@@ -1262,7 +31,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1274,7 +43,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1286,7 +55,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1300,7 +69,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1314,7 +83,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1328,7 +97,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1340,7 +109,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1352,7 +121,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1364,7 +133,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2008
 
@@ -1376,7 +145,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1390,7 +159,7 @@ Kansas City, Missouri
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1400,7 +169,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2007
 
@@ -1414,7 +183,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1426,7 +195,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1438,7 +207,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1450,7 +219,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1462,7 +231,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1474,7 +243,7 @@ Duluth, Minnesota
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1488,7 +257,7 @@ Scottsdale, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1500,7 +269,7 @@ Narragansett, Rhode Island
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1512,7 +281,7 @@ Narragansett, Rhode Island
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1526,7 +295,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1536,7 +305,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2007
 
@@ -1550,7 +319,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1562,7 +331,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1572,7 +341,7 @@ Who's Who of Food & Beverage in America
 
 Washington, District of Columbia
 
-Winner
+
 
 2007
 
@@ -1586,7 +355,7 @@ Cupertino, California
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1594,7 +363,7 @@ Art Smith
 
 Humanitarian of the Year
 
-Winner
+
 
 2007
 
@@ -1608,7 +377,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1620,7 +389,7 @@ Athens, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1632,7 +401,7 @@ Athens, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1646,7 +415,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1660,7 +429,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1672,7 +441,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1684,7 +453,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1696,7 +465,7 @@ Greenville, Mississippi
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1708,7 +477,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1722,7 +491,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1736,7 +505,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1748,7 +517,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1758,7 +527,7 @@ Who's Who of Food & Beverage in America
 
 Santa Maria, California
 
-Winner
+
 
 2007
 
@@ -1770,7 +539,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1784,7 +553,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1794,7 +563,7 @@ Who's Who of Food & Beverage in America
 
 Berkeley, California
 
-Winner
+
 
 2007
 
@@ -1806,7 +575,7 @@ Pittsburgh, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1818,7 +587,7 @@ Pittsburgh, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1828,7 +597,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 2007
 
@@ -1842,7 +611,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1856,7 +625,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1870,7 +639,7 @@ Decatur, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1884,7 +653,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1896,7 +665,7 @@ Duluth, Minnesota
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1908,7 +677,7 @@ Abilene, Kansas
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1922,7 +691,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1936,7 +705,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1948,7 +717,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1962,7 +731,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1976,7 +745,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -1990,7 +759,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2007
 
@@ -2004,7 +773,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2016,7 +785,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2028,7 +797,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2038,7 +807,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2006
 
@@ -2050,7 +819,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2062,7 +831,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2076,7 +845,7 @@ McLean, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2088,7 +857,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2102,7 +871,7 @@ West Hollywood, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2116,7 +885,7 @@ Greenwich, Connecticut
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2124,7 +893,7 @@ New Orleans Restaurant Community
 
 Humanitarian of the Year
 
-Winner
+
 
 2006
 
@@ -2136,7 +905,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2146,7 +915,7 @@ Who's Who of Food & Beverage in America
 
 Petaluma,Point Reyes Station, California
 
-Winner
+
 
 2006
 
@@ -2160,7 +929,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2172,7 +941,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2184,7 +953,7 @@ Lihue, Kauai, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2196,7 +965,7 @@ Moline, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2208,7 +977,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2220,7 +989,7 @@ Lihue, Kauai, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2234,7 +1003,7 @@ Scottsdale, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2248,7 +1017,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2260,7 +1029,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2270,7 +1039,7 @@ Who's Who of Food & Beverage in America
 
 Ann Arbor, Michigan
 
-Winner
+
 
 2006
 
@@ -2284,7 +1053,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2298,7 +1067,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2312,7 +1081,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2324,7 +1093,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2338,7 +1107,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2350,7 +1119,7 @@ Sugar Hill, New Hampshire
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2362,7 +1131,7 @@ Sugar Hill, New Hampshire
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2374,7 +1143,7 @@ Sugar Hill, New Hampshire
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2386,7 +1155,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2396,7 +1165,7 @@ Who's Who of Food & Beverage in America
 
 Point Reyes Station, California
 
-Winner
+
 
 2006
 
@@ -2406,7 +1175,7 @@ Who's Who of Food & Beverage in America
 
 Berkeley, California
 
-Winner
+
 
 2006
 
@@ -2420,7 +1189,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2434,7 +1203,7 @@ Minneapolis, Minnesota
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2446,7 +1215,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2458,7 +1227,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2468,7 +1237,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 2006
 
@@ -2478,7 +1247,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 2006
 
@@ -2492,7 +1261,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2506,7 +1275,7 @@ Winner
 
 ///////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=7
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=7
 
 
 Bentel & Bentel Architects/Planners LLP
@@ -2519,7 +1288,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2531,7 +1300,7 @@ Taylor, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2545,7 +1314,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2557,7 +1326,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2569,7 +1338,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2583,7 +1352,7 @@ McLean, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2597,7 +1366,7 @@ West Hollywood, California
 
 Restaurant & Chef
 
-Winner
+
 
 2006
 
@@ -2607,7 +1376,7 @@ Who's Who of Food & Beverage in America
 
 Petaluma,Point Reyes Station, California
 
-Winner
+
 
 2006
 
@@ -2617,7 +1386,7 @@ Who's Who of Food & Beverage in America
 
 Boston, Massachusetts
 
-Winner
+
 
 2005
 
@@ -2631,7 +1400,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2639,7 +1408,7 @@ Judy Wicks
 
 Humanitarian of the Year
 
-Winner
+
 
 2005
 
@@ -2653,7 +1422,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2667,7 +1436,7 @@ Portland, Oregon
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2679,7 +1448,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2693,7 +1462,7 @@ Cambridge, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2707,7 +1476,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2721,7 +1490,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2733,7 +1502,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2745,7 +1514,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2759,7 +1528,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2771,7 +1540,7 @@ Beverly Hills, California
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2783,7 +1552,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2797,7 +1566,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2807,7 +1576,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2005
 
@@ -2819,7 +1588,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2833,7 +1602,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2845,7 +1614,7 @@ Beverly Hills, California
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2859,7 +1628,7 @@ Atlanta, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2871,7 +1640,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2885,7 +1654,7 @@ Mexico City
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2897,7 +1666,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2907,7 +1676,7 @@ Who's Who of Food & Beverage in America
 
 St. Helena, California
 
-Winner
+
 
 2005
 
@@ -2919,7 +1688,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2929,7 +1698,7 @@ Who's Who of Food & Beverage in America
 
 Galisteo, New Mexico
 
-Winner
+
 
 2005
 
@@ -2943,7 +1712,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2953,7 +1722,7 @@ Lifetime Achievement
 
 Madison, Connecticut
 
-Winner
+
 
 2005
 
@@ -2965,7 +1734,7 @@ Paradise Valley, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2979,7 +1748,7 @@ Beverly Hills, California
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -2993,7 +1762,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -3007,7 +1776,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -3021,7 +1790,7 @@ Santa Fe, New Mexico
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -3035,7 +1804,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2005
 
@@ -3045,7 +1814,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 2005
 
@@ -3055,7 +1824,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 2004
 
@@ -3069,7 +1838,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3083,7 +1852,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3097,7 +1866,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3111,7 +1880,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3125,7 +1894,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3139,7 +1908,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3153,7 +1922,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3167,7 +1936,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3179,7 +1948,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3193,7 +1962,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3207,7 +1976,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3221,7 +1990,7 @@ Portland, Maine
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3235,7 +2004,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3247,7 +2016,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3255,7 +2024,7 @@ Robert Egger
 
 Humanitarian of the Year
 
-Winner
+
 
 2004
 
@@ -3267,7 +2036,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3277,7 +2046,7 @@ Lifetime Achievement
 
 Berkeley, California
 
-Winner
+
 
 2004
 
@@ -3289,7 +2058,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3303,7 +2072,7 @@ Pawleys Island, South Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3315,7 +2084,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3327,7 +2096,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3339,7 +2108,7 @@ Kailua Kona, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3351,7 +2120,7 @@ Kailua Kona, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3365,7 +2134,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3377,7 +2146,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3391,7 +2160,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3403,7 +2172,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3413,7 +2182,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2004
 
@@ -3423,7 +2192,7 @@ Who's Who of Food & Beverage in America
 
 Rutherford, California
 
-Winner
+
 
 2004
 
@@ -3437,7 +2206,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3449,7 +2218,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3457,7 +2226,7 @@ Rose Levy Beranbaum
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 2004
 
@@ -3469,7 +2238,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3483,7 +2252,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3495,7 +2264,7 @@ Minneapolis, Minnesota
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3507,7 +2276,7 @@ Minneapolis, Minnesota
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3521,7 +2290,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3535,7 +2304,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3547,7 +2316,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3561,7 +2330,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2004
 
@@ -3575,7 +2344,7 @@ Farmington Hills, Michigan
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3587,7 +2356,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3601,7 +2370,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3615,7 +2384,7 @@ Evanston, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3625,7 +2394,7 @@ Lifetime Achievement
 
 Walnut Creek, California
 
-Winner
+
 
 2003
 
@@ -3639,7 +2408,7 @@ Overland Park, Kansas
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3651,7 +2420,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3661,7 +2430,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 2003
 
@@ -3671,7 +2440,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2003
 
@@ -3685,7 +2454,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3699,7 +2468,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3709,7 +2478,7 @@ Who's Who of Food & Beverage in America
 
 Orlando, Florida
 
-Winner
+
 
 2003
 
@@ -3723,7 +2492,7 @@ Durham, North Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3737,7 +2506,7 @@ Durham, North Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3749,7 +2518,7 @@ Lexington, North Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3761,7 +2530,7 @@ Ayden, North Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3775,7 +2544,7 @@ Winner
 
 ////////////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=8
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=8
 
 
 
@@ -3788,7 +2557,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3800,7 +2569,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3812,7 +2581,7 @@ Santa Fe, New Mexico
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3824,7 +2593,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3838,7 +2607,7 @@ Atlanta, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3852,7 +2621,7 @@ Phoenix, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3862,7 +2631,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2003
 
@@ -3874,7 +2643,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3888,7 +2657,7 @@ Atlanta, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3900,7 +2669,7 @@ Buffalo, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3914,7 +2683,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3928,7 +2697,7 @@ St. Helena, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3940,7 +2709,7 @@ Pescadero, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3952,7 +2721,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3966,7 +2735,7 @@ Honolulu, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -3976,7 +2745,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2003
 
@@ -3990,7 +2759,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4004,7 +2773,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4012,7 +2781,7 @@ Julia Erickson
 
 Humanitarian of the Year
 
-Winner
+
 
 2003
 
@@ -4026,7 +2795,7 @@ Overland Park, Kansas
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4038,7 +2807,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4050,7 +2819,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4062,7 +2831,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4076,7 +2845,7 @@ Overland Park, Kansas
 
 Restaurant & Chef
 
-Winner
+
 
 2003
 
@@ -4090,7 +2859,7 @@ Wellesley, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4102,7 +2871,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4110,7 +2879,7 @@ Restaurant Industry of New York
 
 Humanitarian of the Year
 
-Winner
+
 
 2002
 
@@ -4124,7 +2893,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4136,7 +2905,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4150,7 +2919,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4160,7 +2929,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2002
 
@@ -4172,7 +2941,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4186,7 +2955,7 @@ Beverly Hills, California
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4198,7 +2967,7 @@ Brooklyn, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4210,7 +2979,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4220,7 +2989,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 2002
 
@@ -4232,7 +3001,7 @@ Baltimore, Maryland
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4244,7 +3013,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4256,7 +3025,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4270,7 +3039,7 @@ Las Vegas, Nevada
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4284,7 +3053,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4296,7 +3065,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4310,7 +3079,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4324,7 +3093,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4334,7 +3103,7 @@ Who's Who of Food & Beverage in America
 
 Beverly Hills, California
 
-Winner
+
 
 2002
 
@@ -4348,7 +3117,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4362,7 +3131,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4376,7 +3145,7 @@ Healdsburg, California
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4390,7 +3159,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4402,7 +3171,7 @@ Milwaukee, Wisconsin
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4414,7 +3183,7 @@ Milwaukee, Wisconsin
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4428,7 +3197,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4442,7 +3211,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4452,7 +3221,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2002
 
@@ -4466,7 +3235,7 @@ Portland, Oregon
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4476,7 +3245,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2002
 
@@ -4486,7 +3255,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2002
 
@@ -4498,7 +3267,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2002
 
@@ -4510,7 +3279,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4524,7 +3293,7 @@ Madison, Wisconsin
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4538,7 +3307,7 @@ Portland, Oregon
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4552,7 +3321,7 @@ Birmingham, Alabama
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4560,7 +3329,7 @@ Richard Grausman
 
 Humanitarian of the Year
 
-Winner
+
 
 2001
 
@@ -4572,7 +3341,7 @@ El Paso, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4582,7 +3351,7 @@ Who's Who of Food & Beverage in America
 
 St. Paul, Minnesota
 
-Winner
+
 
 2001
 
@@ -4596,7 +3365,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4608,7 +3377,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4620,7 +3389,7 @@ Miami, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4632,7 +3401,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4644,7 +3413,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4658,7 +3427,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4670,7 +3439,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4682,7 +3451,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4696,7 +3465,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4708,7 +3477,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4720,7 +3489,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4730,7 +3499,7 @@ Who's Who of Food & Beverage in America
 
 Great Neck, New York
 
-Winner
+
 
 2001
 
@@ -4744,7 +3513,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4758,7 +3527,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4770,7 +3539,7 @@ South Thomaston, Maine
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4780,7 +3549,7 @@ Who's Who of Food & Beverage in America
 
 Washington, District of Columbia
 
-Winner
+
 
 2001
 
@@ -4790,7 +3559,7 @@ Who's Who of Food & Beverage in America
 
 San Mateo, California
 
-Winner
+
 
 2001
 
@@ -4800,7 +3569,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2001
 
@@ -4814,7 +3583,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4824,7 +3593,7 @@ Who's Who of Food & Beverage in America
 
 Ferndale, New York
 
-Winner
+
 
 2001
 
@@ -4838,7 +3607,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4852,7 +3621,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4862,7 +3631,7 @@ Lifetime Achievement
 
 Modesto, California
 
-Winner
+
 
 2001
 
@@ -4874,7 +3643,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4888,7 +3657,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4900,7 +3669,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4914,7 +3683,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4928,7 +3697,7 @@ Scottsdale, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4942,7 +3711,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4954,7 +3723,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4968,7 +3737,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2001
 
@@ -4978,7 +3747,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2000
 
@@ -4990,7 +3759,7 @@ Atlantic City, New Jersey
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5002,7 +3771,7 @@ Atlantic City, New Jersey
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5016,7 +3785,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5041,7 +3810,7 @@ Winner
 
 /////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=9
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=9
 
 
 Michael Schlow
@@ -5054,7 +3823,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5068,7 +3837,7 @@ Durham, North Carolina
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5082,7 +3851,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5096,7 +3865,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5108,7 +3877,7 @@ Dallas, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5120,7 +3889,7 @@ Oahu, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5134,7 +3903,7 @@ Whitehouse, New Jersey
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5148,7 +3917,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5162,7 +3931,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5174,7 +3943,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5182,7 +3951,7 @@ Drew Nieporent
 
 Humanitarian of the Year
 
-Winner
+
 
 2000
 
@@ -5196,7 +3965,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5208,7 +3977,7 @@ Savannah, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5220,7 +3989,7 @@ Ithaca, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5232,7 +4001,7 @@ Savannah, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5244,7 +4013,7 @@ Bronx, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5258,7 +4027,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5272,7 +4041,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5286,7 +4055,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5298,7 +4067,7 @@ Cincinnati, Ohio
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5310,7 +4079,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5322,7 +4091,7 @@ Cincinnati, Ohio
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5334,7 +4103,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5348,7 +4117,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5362,7 +4131,7 @@ Tucson, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5374,7 +4143,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5388,7 +4157,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5400,7 +4169,7 @@ Honolulu, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5410,7 +4179,7 @@ Lifetime Achievement
 
 Longboat Key, Florida
 
-Winner
+
 
 2000
 
@@ -5420,7 +4189,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 2000
 
@@ -5432,7 +4201,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5446,7 +4215,7 @@ Issaquah, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5458,7 +4227,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5472,7 +4241,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5482,7 +4251,7 @@ Outstanding Wine Service
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5494,7 +4263,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5506,7 +4275,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5516,7 +4285,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 2000
 
@@ -5530,7 +4299,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5540,7 +4309,7 @@ Who's Who of Food & Beverage in America
 
 Yountville, California
 
-Winner
+
 
 2000
 
@@ -5554,7 +4323,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5564,7 +4333,7 @@ Who's Who of Food & Beverage in America
 
 Studio City, California
 
-Winner
+
 
 2000
 
@@ -5578,7 +4347,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 2000
 
@@ -5590,7 +4359,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5604,7 +4373,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5616,7 +4385,7 @@ Portland, Oregon
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5630,7 +4399,7 @@ Williamsburg, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5644,7 +4413,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5658,7 +4427,7 @@ Old Chatham, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5670,7 +4439,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5684,7 +4453,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5696,7 +4465,7 @@ Santa Fe, New Mexico
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5708,7 +4477,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5722,7 +4491,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5736,7 +4505,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5746,7 +4515,7 @@ Lifetime Achievement
 
 Beacon, New York
 
-Winner
+
 
 1999
 
@@ -5758,7 +4527,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5770,7 +4539,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5784,7 +4553,7 @@ Oakland, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5792,7 +4561,7 @@ Molly O'Neill
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1999
 
@@ -5804,7 +4573,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5818,7 +4587,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5830,7 +4599,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5844,7 +4613,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5856,7 +4625,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5868,7 +4637,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5880,7 +4649,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5888,7 +4657,7 @@ Mary Risley
 
 Humanitarian of the Year
 
-Winner
+
 
 1999
 
@@ -5900,7 +4669,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5914,7 +4683,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5928,7 +4697,7 @@ Phoenix, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5942,7 +4711,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5950,7 +4719,7 @@ R.W. Apple
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1999
 
@@ -5960,7 +4729,7 @@ Who's Who of Food & Beverage in America
 
 Washington, District of Columbia
 
-Winner
+
 
 1999
 
@@ -5970,7 +4739,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1999
 
@@ -5984,7 +4753,7 @@ Kansas City, Missouri
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -5996,7 +4765,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6010,7 +4779,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6022,7 +4791,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6034,7 +4803,7 @@ Avondale, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6046,7 +4815,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6058,7 +4827,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6070,7 +4839,7 @@ New Haven, Connecticut
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6078,7 +4847,7 @@ Ernest Gallo
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1999
 
@@ -6092,7 +4861,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6106,7 +4875,7 @@ Kansas City, Missouri
 
 Restaurant & Chef
 
-Winner
+
 
 1999
 
@@ -6120,7 +4889,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6132,7 +4901,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6142,7 +4911,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1998
 
@@ -6152,7 +4921,7 @@ Who's Who of Food & Beverage in America
 
 Mamaroneck, New York
 
-Winner
+
 
 1998
 
@@ -6166,7 +4935,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6180,7 +4949,7 @@ Toronto, Ontario
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6194,7 +4963,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6206,7 +4975,7 @@ Highlands, New Jersey
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6218,7 +4987,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6232,7 +5001,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6244,7 +5013,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6256,7 +5025,7 @@ Fort Worth, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6268,7 +5037,7 @@ Miami Beach, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6282,7 +5051,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6302,7 +5071,7 @@ Winner
 
 ///////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=10
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=10
 
 Stephen Durfee
 
@@ -6314,7 +5083,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6324,7 +5093,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1998
 
@@ -6338,7 +5107,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6350,7 +5119,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6358,7 +5127,7 @@ Rick Bayless
 
 Humanitarian of the Year
 
-Winner
+
 
 1998
 
@@ -6370,7 +5139,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6382,7 +5151,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6394,7 +5163,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6406,7 +5175,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6418,7 +5187,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6430,7 +5199,7 @@ Kansas City, Missouri
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6442,7 +5211,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6452,7 +5221,7 @@ Lifetime Achievement
 
 Barre, Vermont
 
-Winner
+
 
 1998
 
@@ -6464,7 +5233,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6478,7 +5247,7 @@ Scottsdale, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6490,7 +5259,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6498,7 +5267,7 @@ Carolyn O'Neil
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1998
 
@@ -6512,7 +5281,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6522,7 +5291,7 @@ Who's Who of Food & Beverage in America
 
 Dallas, Texas
 
-Winner
+
 
 1998
 
@@ -6534,7 +5303,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6546,7 +5315,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6560,7 +5329,7 @@ Beverly Hills, California
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6574,7 +5343,7 @@ Aspen, Colorado
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6588,7 +5357,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6600,7 +5369,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6614,7 +5383,7 @@ Portland, Oregon
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6626,7 +5395,7 @@ Monkton, Maryland
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6640,7 +5409,7 @@ Toronto, Ontario
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6654,7 +5423,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1998
 
@@ -6664,7 +5433,7 @@ Who's Who of Food & Beverage in America
 
 Palo Alto, California
 
-Winner
+
 
 1997
 
@@ -6674,7 +5443,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 1997
 
@@ -6684,7 +5453,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1997
 
@@ -6698,7 +5467,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6708,7 +5477,7 @@ Who's Who of Food & Beverage in America
 
 Oakville, California
 
-Winner
+
 
 1997
 
@@ -6718,7 +5487,7 @@ Who's Who of Food & Beverage in America
 
 Napa, California
 
-Winner
+
 
 1997
 
@@ -6732,7 +5501,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6744,7 +5513,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6756,7 +5525,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6770,7 +5539,7 @@ Aspen, Colorado
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6782,7 +5551,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6796,7 +5565,7 @@ Healdsburg, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6810,7 +5579,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6824,7 +5593,7 @@ Wheeling, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6838,7 +5607,7 @@ Philadelphia, Pennsylvania
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6852,7 +5621,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6866,7 +5635,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6880,7 +5649,7 @@ Cambridge, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6890,7 +5659,7 @@ Who's Who of Food & Beverage in America
 
 Camano Island, Washington
 
-Winner
+
 
 1997
 
@@ -6904,7 +5673,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6918,7 +5687,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6928,7 +5697,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1997
 
@@ -6942,7 +5711,7 @@ Coral Gables, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6952,7 +5721,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1997
 
@@ -6964,7 +5733,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6976,7 +5745,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -6984,7 +5753,7 @@ Alice Waters
 
 Humanitarian of the Year
 
-Winner
+
 
 1997
 
@@ -6996,7 +5765,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -7006,7 +5775,7 @@ Who's Who of Food & Beverage in America
 
 Winchester, Massachusetts
 
-Winner
+
 
 1997
 
@@ -7020,7 +5789,7 @@ Southport, Connecticut
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -7034,7 +5803,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -7048,7 +5817,7 @@ Southport, Connecticut
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -7060,7 +5829,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1997
 
@@ -7070,7 +5839,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1996
 
@@ -7080,7 +5849,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 1996
 
@@ -7092,7 +5861,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7102,7 +5871,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1996
 
@@ -7116,7 +5885,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7130,7 +5899,7 @@ Cambridge, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7140,7 +5909,7 @@ Who's Who of Food & Beverage in America
 
 Windsor, California
 
-Winner
+
 
 1996
 
@@ -7154,7 +5923,7 @@ Calistoga, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7164,7 +5933,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 1996
 
@@ -7178,7 +5947,7 @@ Santa Fe, New Mexico
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7190,7 +5959,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7202,7 +5971,7 @@ Santa Monica, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7214,7 +5983,7 @@ Santa Monica, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7226,7 +5995,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7240,7 +6009,7 @@ Santa Fe, New Mexico
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7254,7 +6023,7 @@ Yountville, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7266,7 +6035,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7278,7 +6047,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7292,7 +6061,7 @@ Atlanta, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7302,7 +6071,7 @@ Who's Who of Food & Beverage in America
 
 Brookline, Massachusetts
 
-Winner
+
 
 1996
 
@@ -7316,7 +6085,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7330,7 +6099,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7342,7 +6111,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7356,7 +6125,7 @@ Calistoga, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7370,7 +6139,7 @@ Honolulu, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7378,7 +6147,7 @@ Danny Meyer
 
 Humanitarian of the Year
 
-Winner
+
 
 1996
 
@@ -7392,7 +6161,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7404,7 +6173,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7418,7 +6187,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7432,7 +6201,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7442,7 +6211,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1996
 
@@ -7456,7 +6225,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7470,7 +6239,7 @@ Milwaukee, Wisconsin
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7480,7 +6249,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1996
 
@@ -7494,7 +6263,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1996
 
@@ -7504,7 +6273,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1995
 
@@ -7512,7 +6281,7 @@ Paul Newman
 
 Humanitarian of the Year
 
-Winner
+
 
 1995
 
@@ -7526,7 +6295,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7552,7 +6321,7 @@ Winner
 
 /////////////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=11
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=11
 
 Robert Kinkead
 
@@ -7564,7 +6333,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7574,7 +6343,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1995
 
@@ -7586,7 +6355,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7600,7 +6369,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7608,7 +6377,7 @@ Martha Stewart
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1995
 
@@ -7618,7 +6387,7 @@ Who's Who of Food & Beverage in America
 
 Los Angeles, California
 
-Winner
+
 
 1995
 
@@ -7630,7 +6399,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7644,7 +6413,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7658,7 +6427,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7672,7 +6441,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7684,7 +6453,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7698,7 +6467,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7710,7 +6479,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7724,7 +6493,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7736,7 +6505,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7750,7 +6519,7 @@ Savannah, Georgia
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7760,7 +6529,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1995
 
@@ -7774,7 +6543,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7786,7 +6555,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7800,7 +6569,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7808,7 +6577,7 @@ A. E. Hotchner
 
 Humanitarian of the Year
 
-Winner
+
 
 1995
 
@@ -7822,7 +6591,7 @@ Phoenix, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7832,7 +6601,7 @@ Lifetime Achievement
 
 San Francisco, California
 
-Winner
+
 
 1995
 
@@ -7842,7 +6611,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1995
 
@@ -7852,7 +6621,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 1995
 
@@ -7860,7 +6629,7 @@ Ursula Hotchner
 
 Humanitarian of the Year
 
-Winner
+
 
 1995
 
@@ -7874,7 +6643,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7888,7 +6657,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7902,7 +6671,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7914,7 +6683,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1995
 
@@ -7928,7 +6697,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -7938,7 +6707,7 @@ Who's Who of Food & Beverage in America
 
 Camden, Maine
 
-Winner
+
 
 1994
 
@@ -7952,7 +6721,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -7960,7 +6729,7 @@ Narcisse Chamberlain
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1994
 
@@ -7974,7 +6743,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -7982,7 +6751,7 @@ Wolfgang Puck
 
 Humanitarian of the Year
 
-Winner
+
 
 1994
 
@@ -7994,7 +6763,7 @@ West Hollywood, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8008,7 +6777,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8022,7 +6791,7 @@ Santa Cruz, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8036,7 +6805,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8044,7 +6813,7 @@ Zach Hanle
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1994
 
@@ -8058,7 +6827,7 @@ Dallas, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8070,7 +6839,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8084,7 +6853,7 @@ North Miami Beach, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8094,7 +6863,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1994
 
@@ -8102,7 +6871,7 @@ Barbara Lazaroff
 
 Humanitarian of the Year
 
-Winner
+
 
 1994
 
@@ -8110,7 +6879,7 @@ Jeff Smith
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1994
 
@@ -8124,7 +6893,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8134,7 +6903,7 @@ Who's Who of Food & Beverage in America
 
 Chapel Hill, North Carolina
 
-Winner
+
 
 1994
 
@@ -8148,7 +6917,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8158,7 +6927,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1994
 
@@ -8168,7 +6937,7 @@ Who's Who of Food & Beverage in America
 
 Newark, New Jersey
 
-Winner
+
 
 1994
 
@@ -8178,7 +6947,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1994
 
@@ -8190,7 +6959,7 @@ West Hollywood, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8202,7 +6971,7 @@ Santa Monica, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8216,7 +6985,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8228,7 +6997,7 @@ Santa Monica, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8238,7 +7007,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1994
 
@@ -8246,7 +7015,7 @@ Joel Dean
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1994
 
@@ -8256,7 +7025,7 @@ Lifetime Achievement
 
 Napa, California
 
-Winner
+
 
 1994
 
@@ -8268,7 +7037,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8276,7 +7045,7 @@ Cecily Brownstone
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1994
 
@@ -8290,7 +7059,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8302,7 +7071,7 @@ West Hollywood, California
 
 Restaurant & Chef
 
-Winner
+
 
 1994
 
@@ -8316,7 +7085,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8328,7 +7097,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8342,7 +7111,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8356,7 +7125,7 @@ Honolulu, Hawaii
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8370,7 +7139,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8382,7 +7151,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8394,7 +7163,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8406,7 +7175,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8420,7 +7189,7 @@ Detroit, Michigan
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8428,7 +7197,7 @@ Jerry Greenfield
 
 Humanitarian of the Year
 
-Winner
+
 
 1993
 
@@ -8440,7 +7209,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8450,7 +7219,7 @@ Who's Who of Food & Beverage in America
 
 Monkton, Maryland
 
-Winner
+
 
 1993
 
@@ -8464,7 +7233,7 @@ Berkeley, California
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8474,7 +7243,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1993
 
@@ -8488,7 +7257,7 @@ Phoenix, Arizona
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8498,7 +7267,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 1993
 
@@ -8506,7 +7275,7 @@ Carl Sontheimer
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1993
 
@@ -8520,7 +7289,7 @@ Larkspur, California
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8534,7 +7303,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8544,7 +7313,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1993
 
@@ -8552,7 +7321,7 @@ Ben Cohen
 
 Humanitarian of the Year
 
-Winner
+
 
 1993
 
@@ -8566,7 +7335,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8578,7 +7347,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8592,7 +7361,7 @@ Providence, Rhode Island
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8606,7 +7375,7 @@ Williamsburg, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8620,7 +7389,7 @@ Providence, Rhode Island
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8628,7 +7397,7 @@ Gregory Usher
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1993
 
@@ -8638,7 +7407,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1993
 
@@ -8648,7 +7417,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1993
 
@@ -8662,7 +7431,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8674,7 +7443,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1993
 
@@ -8686,7 +7455,7 @@ Tampa, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8698,7 +7467,7 @@ Berkeley, California
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8712,7 +7481,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8724,7 +7493,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8734,7 +7503,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1992
 
@@ -8758,7 +7527,7 @@ Winner
 
 ///////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=12
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=12
 
 Bern's Steak House
 
@@ -8768,7 +7537,7 @@ Tampa, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8776,7 +7545,7 @@ Patricia Wells
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1992
 
@@ -8786,7 +7555,7 @@ Who's Who of Food & Beverage in America
 
 Saugatuck, Michigan
 
-Winner
+
 
 1992
 
@@ -8800,7 +7569,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8814,7 +7583,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8828,7 +7597,7 @@ Houston, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8838,7 +7607,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1992
 
@@ -8852,7 +7621,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8864,7 +7633,7 @@ Napa, California
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8878,7 +7647,7 @@ N. Miami, Florida
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8890,7 +7659,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8898,7 +7667,7 @@ Gael Greene
 
 Humanitarian of the Year
 
-Winner
+
 
 1992
 
@@ -8912,7 +7681,7 @@ Elmsford, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8922,7 +7691,7 @@ Who's Who of Food & Beverage in America
 
 Stowe, Vermont
 
-Winner
+
 
 1992
 
@@ -8936,7 +7705,7 @@ Washington, Virginia
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8946,7 +7715,7 @@ Lifetime Achievement
 
 New York, New York
 
-Winner
+
 
 1992
 
@@ -8956,7 +7725,7 @@ Who's Who of Food & Beverage in America
 
 West Redding, Connecticut
 
-Winner
+
 
 1992
 
@@ -8966,7 +7735,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1992
 
@@ -8980,7 +7749,7 @@ Berkeley, California
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -8994,7 +7763,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -9008,7 +7777,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -9020,7 +7789,7 @@ Berkeley, California
 
 Restaurant & Chef
 
-Winner
+
 
 1992
 
@@ -9034,7 +7803,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9046,7 +7815,7 @@ San Francisco, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9056,7 +7825,7 @@ Who's Who of Food & Beverage in America
 
 Washington, District of Columbia
 
-Winner
+
 
 1991
 
@@ -9070,7 +7839,7 @@ Dallas, Texas
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9084,7 +7853,7 @@ Seattle, Washington
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9098,7 +7867,7 @@ Cambridge, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9112,7 +7881,7 @@ Washington, District of Columbia
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9122,7 +7891,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1991
 
@@ -9134,7 +7903,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9146,7 +7915,7 @@ New York, New York
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9156,7 +7925,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1991
 
@@ -9168,7 +7937,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9182,7 +7951,7 @@ Boston, Massachusetts
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9196,7 +7965,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9206,7 +7975,7 @@ Who's Who of Food & Beverage in America
 
 Paris
 
-Winner
+
 
 1991
 
@@ -9216,7 +7985,7 @@ Who's Who of Food & Beverage in America
 
 Los Angeles, California
 
-Winner
+
 
 1991
 
@@ -9224,7 +7993,7 @@ Bill Shore
 
 Humanitarian of the Year
 
-Winner
+
 
 1991
 
@@ -9236,7 +8005,7 @@ San Francisco, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9250,7 +8019,7 @@ Los Angeles, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9264,7 +8033,7 @@ Chicago, Illinois
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9278,7 +8047,7 @@ New Orleans, Louisiana
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9292,7 +8061,7 @@ Oakville, California
 
 Restaurant & Chef
 
-Winner
+
 
 1991
 
@@ -9300,7 +8069,7 @@ M.F.K. Fisher
 
 Lifetime Achievement
 
-Winner
+
 
 1991
 
@@ -9308,7 +8077,7 @@ Barbara Tropp
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1989
 
@@ -9318,7 +8087,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 1989
 
@@ -9328,7 +8097,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1989
 
@@ -9338,7 +8107,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1989
 
@@ -9348,7 +8117,7 @@ Who's Who of Food & Beverage in America
 
 Santa Cruz, California
 
-Winner
+
 
 1989
 
@@ -9358,7 +8127,7 @@ Who's Who of Food & Beverage in America
 
 New Orleans, Louisiana
 
-Winner
+
 
 1989
 
@@ -9368,7 +8137,7 @@ Who's Who of Food & Beverage in America
 
 Sacramento, California
 
-Winner
+
 
 1989
 
@@ -9378,7 +8147,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1989
 
@@ -9388,7 +8157,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1989
 
@@ -9396,7 +8165,7 @@ Alexis Bespaloff
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1989
 
@@ -9406,7 +8175,7 @@ Who's Who of Food & Beverage in America
 
 Miami Beach, Florida
 
-Winner
+
 
 1988
 
@@ -9416,7 +8185,7 @@ Who's Who of Food & Beverage in America
 
 Pacific Palisades, California
 
-Winner
+
 
 1988
 
@@ -9426,7 +8195,7 @@ Who's Who of Food & Beverage in America
 
 New Paltz, New York
 
-Winner
+
 
 1988
 
@@ -9436,7 +8205,7 @@ Who's Who of Food & Beverage in America
 
 Santa Monica, California
 
-Winner
+
 
 1988
 
@@ -9446,7 +8215,7 @@ Who's Who of Food & Beverage in America
 
 Napa, California
 
-Winner
+
 
 1988
 
@@ -9456,7 +8225,7 @@ Who's Who of Food & Beverage in America
 
 Kingston, New York
 
-Winner
+
 
 1988
 
@@ -9466,7 +8235,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1987
 
@@ -9476,7 +8245,7 @@ Who's Who of Food & Beverage in America
 
 Ridgefield, Connecticut
 
-Winner
+
 
 1987
 
@@ -9486,7 +8255,7 @@ Who's Who of Food & Beverage in America
 
 Seattle, Washington
 
-Winner
+
 
 1987
 
@@ -9496,7 +8265,7 @@ Who's Who of Food & Beverage in America
 
 Lafayette, Louisiana
 
-Winner
+
 
 1987
 
@@ -9506,7 +8275,7 @@ Who's Who of Food & Beverage in America
 
 Houston, Texas
 
-Winner
+
 
 1987
 
@@ -9516,7 +8285,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1987
 
@@ -9526,7 +8295,7 @@ Who's Who of Food & Beverage in America
 
 Dallas, Texas
 
-Winner
+
 
 1987
 
@@ -9536,7 +8305,7 @@ Who's Who of Food & Beverage in America
 
 Dundee, Oregon
 
-Winner
+
 
 1987
 
@@ -9546,7 +8315,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1987
 
@@ -9554,7 +8323,7 @@ Jean-Louis Palladin
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1987
 
@@ -9564,7 +8333,7 @@ Who's Who of Food & Beverage in America
 
 Madison, Connecticut
 
-Winner
+
 
 1986
 
@@ -9574,7 +8343,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1986
 
@@ -9582,7 +8351,7 @@ Pierre Franey
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1986
 
@@ -9592,7 +8361,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1986
 
@@ -9602,7 +8371,7 @@ Who's Who of Food & Beverage in America
 
 Longboat Key, Florida
 
-Winner
+
 
 1986
 
@@ -9612,7 +8381,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1986
 
@@ -9622,7 +8391,7 @@ Who's Who of Food & Beverage in America
 
 Barre, Vermont
 
-Winner
+
 
 1986
 
@@ -9632,7 +8401,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1986
 
@@ -9642,7 +8411,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1986
 
@@ -9652,7 +8421,7 @@ Who's Who of Food & Beverage in America
 
 Sonoma, California
 
-Winner
+
 
 1986
 
@@ -9662,7 +8431,7 @@ Who's Who of Food & Beverage in America
 
 Austin, Texas
 
-Winner
+
 
 1986
 
@@ -9672,7 +8441,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1986
 
@@ -9682,7 +8451,7 @@ Who's Who of Food & Beverage in America
 
 Santa Monica, California
 
-Winner
+
 
 1986
 
@@ -9690,7 +8459,7 @@ Carole Kraus
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1985
 
@@ -9700,7 +8469,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1985
 
@@ -9710,7 +8479,7 @@ Who's Who of Food & Beverage in America
 
 Berkeley, California
 
-Winner
+
 
 1985
 
@@ -9720,7 +8489,7 @@ Who's Who of Food & Beverage in America
 
 East Hampton, New York
 
-Winner
+
 
 1985
 
@@ -9730,7 +8499,7 @@ Who's Who of Food & Beverage in America
 
 St. Helena, California
 
-Winner
+
 
 1985
 
@@ -9738,7 +8507,7 @@ Paul Kovi
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1985
 
@@ -9748,7 +8517,7 @@ Who's Who of Food & Beverage in America
 
 Beacon, New York
 
-Winner
+
 
 1985
 
@@ -9756,7 +8525,7 @@ Sibella Kraus
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1985
 
@@ -9766,7 +8535,7 @@ Who's Who of Food & Beverage in America
 
 Del Mar, California
 
-Winner
+
 
 1985
 
@@ -9776,7 +8545,7 @@ Who's Who of Food & Beverage in America
 
 St. Helena, California
 
-Winner
+
 
 1985
 
@@ -9786,7 +8555,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1985
 
@@ -9796,7 +8565,7 @@ Who's Who of Food & Beverage in America
 
 Los Angeles, California
 
-Winner
+
 
 1985
 
@@ -9806,7 +8575,7 @@ Who's Who of Food & Beverage in America
 
 Los Alamitos, California
 
-Winner
+
 
 1985
 
@@ -9816,7 +8585,7 @@ Who's Who of Food & Beverage in America
 
 Bethesda, Maryland
 
-Winner
+
 
 1985
 
@@ -9826,7 +8595,7 @@ Who's Who of Food & Beverage in America
 
 Los Angeles, California
 
-Winner
+
 
 1985
 
@@ -9843,7 +8612,7 @@ Winner
 
 ///////////////////
 
-https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5BWinner%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=13
+https://www.jamesbeard.org/awards/search?keyword=&year=&ranks%5B%5D=1&categories%5BRestaurant+%26+Chef%5D=1&page=13
 
 Jesse Sartain
 
@@ -9851,7 +8620,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1985
 
@@ -9861,7 +8630,7 @@ Who's Who of Food & Beverage in America
 
 Providence, Rhode Island
 
-Winner
+
 
 1985
 
@@ -9871,7 +8640,7 @@ Who's Who of Food & Beverage in America
 
 Dallas, Texas
 
-Winner
+
 
 1985
 
@@ -9881,7 +8650,7 @@ Who's Who of Food & Beverage in America
 
 Santa Fe, New Mexico
 
-Winner
+
 
 1985
 
@@ -9891,7 +8660,7 @@ Who's Who of Food & Beverage in America
 
 Tuckahoe, New York
 
-Winner
+
 
 1985
 
@@ -9901,7 +8670,7 @@ Who's Who of Food & Beverage in America
 
 Tacoma Park, Maryland
 
-Winner
+
 
 1985
 
@@ -9911,7 +8680,7 @@ Who's Who of Food & Beverage in America
 
 Concord, Massachusetts
 
-Winner
+
 
 1985
 
@@ -9921,7 +8690,7 @@ Who's Who of Food & Beverage in America
 
 Palm Desert, California
 
-Winner
+
 
 1985
 
@@ -9931,7 +8700,7 @@ Who's Who of Food & Beverage in America
 
 Beverly Hills, California
 
-Winner
+
 
 1984
 
@@ -9941,7 +8710,7 @@ Who's Who of Food & Beverage in America
 
 Cupertino, California
 
-Winner
+
 
 1984
 
@@ -9951,7 +8720,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 1984
 
@@ -9959,7 +8728,7 @@ Jeremiah Tower
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -9967,7 +8736,7 @@ Michael Roberts
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -9977,7 +8746,7 @@ Who's Who of Food & Beverage in America
 
 Philadelphia, Pennsylvania
 
-Winner
+
 
 1984
 
@@ -9987,7 +8756,7 @@ Who's Who of Food & Beverage in America
 
 Boston, Massachusetts
 
-Winner
+
 
 1984
 
@@ -9997,7 +8766,7 @@ Who's Who of Food & Beverage in America
 
 Glen Ellen, California
 
-Winner
+
 
 1984
 
@@ -10007,7 +8776,7 @@ Who's Who of Food & Beverage in America
 
 Harahan, Louisiana
 
-Winner
+
 
 1984
 
@@ -10017,7 +8786,7 @@ Who's Who of Food & Beverage in America
 
 Williamsburg, Virginia
 
-Winner
+
 
 1984
 
@@ -10027,7 +8796,7 @@ Who's Who of Food & Beverage in America
 
 Las Vegas, Nevada
 
-Winner
+
 
 1984
 
@@ -10037,7 +8806,7 @@ Who's Who of Food & Beverage in America
 
 Mill Valley, California
 
-Winner
+
 
 1984
 
@@ -10045,7 +8814,7 @@ Edna Lewis
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10053,7 +8822,7 @@ Marion Cunningham
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10063,7 +8832,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10071,7 +8840,7 @@ William Tuttle
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10081,7 +8850,7 @@ Who's Who of Food & Beverage in America
 
 Los Angeles, California
 
-Winner
+
 
 1984
 
@@ -10091,7 +8860,7 @@ Who's Who of Food & Beverage in America
 
 Lexington, Massachusetts
 
-Winner
+
 
 1984
 
@@ -10099,7 +8868,7 @@ Richard Graff
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10107,7 +8876,7 @@ Robert Mondavi
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10117,7 +8886,7 @@ Who's Who of Food & Beverage in America
 
 Detroit, Michigan
 
-Winner
+
 
 1984
 
@@ -10127,7 +8896,7 @@ Who's Who of Food & Beverage in America
 
 Petoskey, Michigan
 
-Winner
+
 
 1984
 
@@ -10137,7 +8906,7 @@ Who's Who of Food & Beverage in America
 
 New Orleans, Louisiana
 
-Winner
+
 
 1984
 
@@ -10147,7 +8916,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10157,7 +8926,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1984
 
@@ -10167,7 +8936,7 @@ Who's Who of Food & Beverage in America
 
 Santa Fe, New Mexico
 
-Winner
+
 
 1984
 
@@ -10177,7 +8946,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10187,7 +8956,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1984
 
@@ -10197,7 +8966,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10207,7 +8976,7 @@ Who's Who of Food & Beverage in America
 
 Belleville, Illinois
 
-Winner
+
 
 1984
 
@@ -10217,7 +8986,7 @@ Who's Who of Food & Beverage in America
 
 San Anselmo, California
 
-Winner
+
 
 1984
 
@@ -10227,7 +8996,7 @@ Who's Who of Food & Beverage in America
 
 Sonoma, California
 
-Winner
+
 
 1984
 
@@ -10237,7 +9006,7 @@ Who's Who of Food & Beverage in America
 
 Santa Monica, California
 
-Winner
+
 
 1984
 
@@ -10247,7 +9016,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10255,7 +9024,7 @@ Julia Child
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10265,7 +9034,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10273,7 +9042,7 @@ Alice Waters
 
 Who's Who of Food & Beverage in America
 
-Winner
+
 
 1984
 
@@ -10283,7 +9052,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10293,7 +9062,7 @@ Who's Who of Food & Beverage in America
 
 Washington, Virginia
 
-Winner
+
 
 1984
 
@@ -10303,7 +9072,7 @@ Who's Who of Food & Beverage in America
 
 New York, New York
 
-Winner
+
 
 1984
 
@@ -10313,7 +9082,7 @@ Who's Who of Food & Beverage in America
 
 Wailuku, Hawaii
 
-Winner
+
 
 1984
 
@@ -10323,7 +9092,7 @@ Who's Who of Food & Beverage in America
 
 Chicago, Illinois
 
-Winner
+
 
 1984
 
@@ -10333,7 +9102,7 @@ Who's Who of Food & Beverage in America
 
 Ft. Lauderdale, Florida
 
-Winner
+
 
 1984
 
@@ -10343,7 +9112,7 @@ Who's Who of Food & Beverage in America
 
 Cambridge, Massachusetts
 
-Winner
+
 
 1984
 
@@ -10353,7 +9122,7 @@ Who's Who of Food & Beverage in America
 
 San Francisco, California
 
-Winner
+
 
 1984
 
