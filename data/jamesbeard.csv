@@ -2,195 +2,1418 @@
 name, type, city, state, category, year 
 
 Jessica B Harris,	Lifetime Achievement,	Brooklyn,	New York,,	NA	,2020
-Heliotrope Architects/ Rupee,	Outstanding Restaurant Design (75 Seats and Under),	Seattle,	Washington,	Restaurant & Chef,,	2020
-Klein Agency / auburn,	Outstanding Restaurant Design (76 Seats and Over),	Los Angeles,	California,,	Restaurant & Chef,,	2020
-Lassis Inn,	America's Classics	,Little Rock	,Arkansas	,Restaurant & Chef,,	2020
-Zehnder's of Frankenmuth,	America's Classics	,Frankenmuth,	Michigan	,Restaurant & Chef,,	2020
-Vera's Backyard Bar-B-Que,	America's Classics	,Brownsville,	Texas,,	Restaurant & Chef,,	2020
-Oriental Mart,	America's Classics	,Seattle	,Washington	Restaurant & Chef,	,2020
-Klein Agency / auburn,	Outstanding Restaurant Design (76 Seats and Over),	Los Angeles,	California,,	Restaurant & Chef,,	2020
+Heliotrope Architects/ Rupee,	Outstanding Restaurant Design (75 Seats and Under),	Seattle,	Washington,	Restaurant & Chef,,,	2020
+Klein Agency / auburn,	Outstanding Restaurant Design (76 Seats and Over),	Los Angeles,	California,,	Restaurant & Chef,,,	2020
+Lassis Inn,	America's Classics	,Little Rock	,Arkansas	,Restaurant & Chef,,,	2020
+Zehnder's of Frankenmuth,	America's Classics	,Frankenmuth,	Michigan	,Restaurant & Chef,,,	2020
+Vera's Backyard Bar-B-Que,	America's Classics	,Brownsville,	Texas,,	Restaurant & Chef,,,	2020
+Oriental Mart,	America's Classics	,Seattle	,Washington	Restaurant & Chef,,	,2020
+Klein Agency / auburn,	Outstanding Restaurant Design (76 Seats and Over),	Los Angeles,	California,,	Restaurant & Chef,,,	2020
 Patrick O'Connell,	Lifetime Achievement,	NA,	Washington,	NA,	2019
-Zahav,	Outstanding Restaurant,	Philadelphia	,Pennsylvania	,Restaurant & Chef,,	2019
-Brady Williams/ Canlis, Best Chef: Northwest, Seattle, Washington, Restaurant & Chef,,2019
-Jim's Steak & Spaghetti House, America's Classics, Huntington, West Virginia, Restaurant & Chef,, 2019
-Annie's Paramount Steakhouse,America's Classics,Washington, District of Columbia, Restaurant & Chef,, 2019
-Canlis,Design Icon,Seattle, Washington,Restaurant & Chef,,2019
-Studio Writers/ Atomix,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,2019
-Pho 79,America's Classics,Garden Grove, California,, Restaurant & Chef,,2019
-Tony Messina/ Uni,Best Chef: Northeast, Boston, Massachusetts,Restaurant & Chef,,2019
-Jody Williams/ Via Carota,Best Chef: New York, City,New York,, New York,,,Restaurant & Chef,,2019
-Rob Tod/ Allagash Brewing Company, Outstanding Wine Spirits or Beer Producer, Portland, Maine,Restaurant & Chef,,2019
-Greg Wade/ Publican Quality Bread,Outstanding Baker,Chicago, Illinois,,Restaurant & Chef,,2019
-Benu,Outstanding Wine Program,San Francisco, California,,Restaurant & Chef,,2019
-Schwartz and Architecture (S^A)/ El Pípila,Other Eating and Drinking Places,San Francisco, California,,Restaurant & Chef,,2019
+Zahav,	Outstanding Restaurant,	Philadelphia	,Pennsylvania	,Restaurant & Chef,,,	2019
+Brady Williams/ Canlis, Best Chef: Northwest, Seattle, Washington, Restaurant & Chef,,,2019
+Jim's Steak & Spaghetti House, America's Classics, Huntington, West Virginia, Restaurant & Chef,,, 2019
+Annie's Paramount Steakhouse,America's Classics,Washington, District of Columbia, Restaurant & Chef,,, 2019
+Canlis,Design Icon,Seattle, Washington,Restaurant & Chef,,,2019
+Studio Writers/ Atomix,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,,2019
+Pho 79,America's Classics,Garden Grove, California,, Restaurant & Chef,,,2019
+Tony Messina/ Uni,Best Chef: Northeast, Boston, Massachusetts,Restaurant & Chef,,,2019
+Jody Williams/ Via Carota,Best Chef: New York, City,New York,, New York,,,Restaurant & Chef,,,2019
+Rob Tod/ Allagash Brewing Company, Outstanding Wine Spirits or Beer Producer, Portland, Maine,Restaurant & Chef,,,2019
+Greg Wade/ Publican Quality Bread,Outstanding Baker,Chicago, Illinois,,Restaurant & Chef,,,2019
+Benu,Outstanding Wine Program,San Francisco, California,,Restaurant & Chef,,,2019
+Schwartz and Architecture (S^A)/ El Pípila,Other Eating and Drinking Places,San Francisco, California,,Restaurant & Chef,,,2019
 The Giving Kitchen,Humanitarian of the Year,,,,2019
-Ashley Christensen/ Poole's Diner,Outstanding Chef,Raleigh, North Carolina,Restaurant & Chef,,2019
-Vishwesh Bhatt/ Snackbar,Best Chef: South,Oxford, Mississippi,Restaurant & Chef,,2019
-Frenchette,Best New Restaurant,New York,, New York,,,Restaurant & Chef,,2019
-Charleen Badman/ FnB Restaurant,Best Chef: Southwest,Scottsdale, Arizona, Restaurant & Chef,,2019
-Tom Cunanan/ Bad Saint,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,,2019
-Sehnert's Bakery & Bieroc Cafe,America's Classics,McCook, Nebraska,Restaurant & Chef,, 2019
-Johnny Clark/ Parachute,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,2019
-Mashama Bailey/ The Grey,Best Chef: Southeast,Savannah, Georgia,Restaurant & Chef,,2019
-Rita Sodi/ Via Carota,Best Chef: New York, City,New York,, New York,,,Restaurant & Chef,,2019
-Kelly Fields/ Willa Jean,Outstanding Pastry Chef,New Orleans, Louisiana,,Restaurant & Chef,,2019
-Bar Agricole,Outstanding Bar Program,San Francisco, California,,Restaurant & Chef,,2019
-Beverly Kim/ Parachute,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,2019
-Rob Katz/ Boka Restaurant Group,Outstanding Restaurateur,Chicago, Illinois,,Restaurant & Chef,,2019
-Michael Cimarusti/ Providence,Best Chef: West,Los Angeles, California,,Restaurant & Chef,,2019
-A&A Bake & Double Roti Shop,America's Classics,Brookyln, New York,,Restaurant & Chef,,2019
-Parts and Labor Design/ Pacific Standard Time,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,,Restaurant & Chef,,2019
-Kwame Onwuachi/ Kith and Kin,Rising Star Chef of the Year,Washington, District of Columbia,Restaurant & Chef,,2019
-Kevin Boehm/ Boka Restaurant Group,Outstanding Restaurateur,Chicago, Illinois,,Restaurant & Chef,,2019
-Frasca Food and Wine,Outstanding Service,Boulder, Colorado,Restaurant & Chef,,2019
-Ann Kim/ Young Joni,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,,2019
-Nina Compton/ Compère Lapin,Best Chef: South,New Orleans, Louisiana,,Restaurant & Chef,,2018
+Ashley Christensen/ Poole's Diner,Outstanding Chef,Raleigh, North Carolina,Restaurant & Chef,,,2019
+Vishwesh Bhatt/ Snackbar,Best Chef: South,Oxford, Mississippi,Restaurant & Chef,,,2019
+Frenchette,Best New Restaurant,New York,, New York,,,Restaurant & Chef,,,2019
+Charleen Badman/ FnB Restaurant,Best Chef: Southwest,Scottsdale, Arizona, Restaurant & Chef,,,2019
+Tom Cunanan/ Bad Saint,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,,,2019
+Sehnert's Bakery & Bieroc Cafe,America's Classics,McCook, Nebraska,Restaurant & Chef,,, 2019
+Johnny Clark/ Parachute,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,,2019
+Mashama Bailey/ The Grey,Best Chef: Southeast,Savannah, Georgia,,Restaurant & Chef,,,2019
+Rita Sodi/ Via Carota,Best Chef: New York, City,New York,, New York,,,Restaurant & Chef,,,2019
+Kelly Fields/ Willa Jean,Outstanding Pastry Chef,New Orleans, Louisiana,,Restaurant & Chef,,,2019
+Bar Agricole,Outstanding Bar Program,San Francisco, California,,Restaurant & Chef,,,2019
+Beverly Kim/ Parachute,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,,2019
+Rob Katz/ Boka Restaurant Group,Outstanding Restaurateur,Chicago, Illinois,,Restaurant & Chef,,,2019
+Michael Cimarusti/ Providence,Best Chef: West,Los Angeles, California,,Restaurant & Chef,,,2019
+A&A Bake & Double Roti Shop,America's Classics,Brookyln, New York,,Restaurant & Chef,,,2019
+Parts and Labor Design/ Pacific Standard Time,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,,Restaurant & Chef,,,2019
+Kwame Onwuachi/ Kith and Kin,Rising Star Chef of the Year,Washington, District of Columbia,Restaurant & Chef,,,2019
+Kevin Boehm/ Boka Restaurant Group,Outstanding Restaurateur,Chicago, Illinois,,Restaurant & Chef,,,2019
+Frasca Food and Wine,Outstanding Service,Boulder, Colorado,Restaurant & Chef,,,2019
+Ann Kim/ Young Joni,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,,,2019
+Nina Compton/ Compère Lapin,Best Chef: South,New Orleans, Louisiana,,Restaurant & Chef,,,2018
 Daniel Johnnes,Who's Who of Food & Beverage in America,New York,, New York,,,,2018
-Rodney Scott/ Rodney Scott’s BBQ,Best Chef: Southeast,Charleston, South Carolina,Restaurant & Chef,,2018
-Gabrielle Hamilton/ Prune,Outstanding Chef,New York,, New York,,,Restaurant & Chef,,2018
-Abraham Conlon/ Fat Rice,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,2018
-Karen Akunowicz/ Myers + Chang,Best Chef: Northeast,Boston, Massachusetts,Restaurant & Chef,,2018
-Dong Phuong Bakery,America's Classics,New Orleans, Louisiana,,Restaurant & Chef,,2018
-Debbie Gold,Design Icon,Kansas City, Missouri,Restaurant & Chef,,2018
-Sun Wah,America's Classics,Chicago, Illinois,,Restaurant & Chef,,2018
-Jeremiah Langhorne/ The Dabney,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,,2018
+Rodney Scott/ Rodney Scott’s BBQ,Best Chef: Southeast,Charleston, South Carolina,Restaurant & Chef,,,2018
+Gabrielle Hamilton/ Prune,Outstanding Chef,New York,, New York,,,Restaurant & Chef,,,2018
+Abraham Conlon/ Fat Rice,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,,2018
+Karen Akunowicz/ Myers + Chang,Best Chef: Northeast,Boston, Massachusetts,Restaurant & Chef,,,2018
+Dong Phuong Bakery,America's Classics,New Orleans, Louisiana,,Restaurant & Chef,,,2018
+Debbie Gold,Design Icon,Kansas City, Missouri,Restaurant & Chef,,,2018
+Sun Wah,America's Classics,Chicago, Illinois,,Restaurant & Chef,,,2018
+Jeremiah Langhorne/ The Dabney,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,,,2018
 Allison Hooper,Who's Who of Food & Beverage in America,Websterville, Vermont,,2018
-Camille Cogswell/ Zahav,Rising Star Chef of the Year,Philadelphia, Pennsylvania,Restaurant & Chef,,2018
-FIG,Outstanding Wine Program,Charleston, South Carolina,Restaurant & Chef,,2018
-Galleria Umberto,America's Classics,Boston, Massachusetts,Restaurant & Chef,,2018
+Camille Cogswell/ Zahav,Rising Star Chef of the Year,Philadelphia, Pennsylvania,Restaurant & Chef,,,2018
+FIG,Outstanding Wine Program,Charleston, South Carolina,Restaurant & Chef,,,2018
+Galleria Umberto,America's Classics,Boston, Massachusetts,Restaurant & Chef,,,2018
 Ti Adelaide Martin,Who's Who of Food & Beverage in America,New Orleans, Louisiana,,,2018
-Cure,Outstanding Bar Program,New Orleans, Louisiana,,Restaurant & Chef,,2018
-Zuni Café,Outstanding Service,San Francisco, California,,Restaurant & Chef,,2018
-Alex Seidel/ Mercantile Dining & Provision, Best Chef: Southwest,  Denver, Colorado, Restaurant & Chef,,2018
-Gavin Kaysen/ Spoon and Stable,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,,2018
+Cure,Outstanding Bar Program,New Orleans, Louisiana,,Restaurant & Chef,,,2018
+Zuni Café,Outstanding Service,San Francisco, California,,Restaurant & Chef,,,2018
+Alex Seidel/ Mercantile Dining & Provision, Best Chef: Southwest,  Denver, Colorado, Restaurant & Chef,,,2018
+Gavin Kaysen/ Spoon and Stable,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,,,2018
 Paula Wolfert,Lifetime Achievement,Sonoma, California,,,2018
-Miljenko Grgich/ Grgich Hills Estate,Outstanding Wine Spirits or Beer Professional,Rutherford, California,,Restaurant & Chef,,2018
-JuneBaby,Best New Restaurant,Seattle, Washington,Restaurant & Chef,,2018
-Missy Robbins/ Lilia,Best Chef: New York, City,Brooklyn, New York,,Restaurant & Chef,,2018
-Los Hernandez/ Union Gap,America's Classics, ,Washington,Restaurant & Chef,,2018
+Miljenko Grgich/ Grgich Hills Estate,Outstanding Wine Spirits or Beer Professional,Rutherford, California,,Restaurant & Chef,,,2018
+JuneBaby,Best New Restaurant,Seattle, Washington,Restaurant & Chef,,,2018
+Missy Robbins/ Lilia,Best Chef: New York, City,Brooklyn, New York,,Restaurant & Chef,,,2018
+Los Hernandez/ Union Gap,America's Classics, ,Washington,Restaurant & Chef,,,2018
 Jody Adams,Who's Who of Food & Beverage in America,Boston, Massachusetts,,2018
-Belinda Leong/ B. Patisserie,Outstanding Baker,San Francisco, California,,Restaurant & Chef,,2018
-The MP Shift/ De Maria,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,2018
-Aidlin Darling Design/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,2018
-Dominique Crenn/ Atelier Crenn,Best Chef: West,San Francisco, California,,Restaurant & Chef,,2018
-Michel Suas/ B. Patisserie,Outstanding Baker,San Francisco, California,,Restaurant & Chef,,2018
-The MP Shift/ De Maria,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,2018
-a l m project/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,2018
-Dolester Miles/ Highlands Bar & Grill,Outstanding Pastry Chef,Birmingham, Alabama,Restaurant & Chef,,2018
-Edouardo Jordan/ Salare,Best Chef: Northwest,Seattle, Washington,Restaurant & Chef,,2018
+Belinda Leong/ B. Patisserie,Outstanding Baker,San Francisco, California,,Restaurant & Chef,,,2018
+The MP Shift/ De Maria,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,,2018
+Aidlin Darling Design/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,,2018
+Dominique Crenn/ Atelier Crenn,Best Chef: West,San Francisco, California,,Restaurant & Chef,,,2018
+Michel Suas/ B. Patisserie,Outstanding Baker,San Francisco, California,,Restaurant & Chef,,,2018
+The MP Shift/ De Maria,Outstanding Restaurant Design (75 Seats and Under),New York,, New York,,,Restaurant & Chef,,,2018
+a l m project/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,,2018
+Dolester Miles/ Highlands Bar & Grill,Outstanding Pastry Chef,Birmingham, Alabama,Restaurant & Chef,,,2018
+Edouardo Jordan/ Salare,Best Chef: Northwest,Seattle, Washington,Restaurant & Chef,,,2018
 Lally Brennan,Who's Who of Food & Beverage in America,New Orleans, Louisiana,,,2018
 José Andrés,Humanitarian of the Year,,,,2018
-El Guero Canelo,America's Classics,Tuscon, Arizona,Restaurant & Chef,,2018
-Highlands Bar & Grill,Outstanding Restaurant,Birmingham, Alabama,Restaurant & Chef,,2018
-Caroline Styne/ The Lucques Group,Outstanding Restaurateur,Los Angeles, California,,Restaurant & Chef,,2018
-Aidlin Darling Design/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,2018
-Arnaud’s French 75 Bar,Outstanding Bar Program,New Orleans, Louisiana,,Restaurant & Chef,,2017
-AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,,Restaurant & Chef,,2017
-Canlis,Outstanding Wine Program,Seattle, Washington,Restaurant & Chef,,2017
-Michael Solomonov/ Zahav,Outstanding Chef,Philadelphia, Pennsylvania,Restaurant & Chef,,2017
-Blue Hill at Stone Barns,Outstanding Service,Pocantico Hills, New York,,Restaurant & Chef,,2017
-Sarah Grueneberg/ Monteverde,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,2017
-Zachary Engel/ Shaya,Rising Star Chef of the Year,New Orleans, Louisiana,,Restaurant & Chef,,2017
-Sahadi's,America's Classics,Brooklyn, New York,,Restaurant & Chef,,2017
-The Oyster Bar at Grand Central Terminal,Design Icon,New York,, New York,,,Restaurant & Chef,,2017
+El Guero Canelo,America's Classics,Tuscon, Arizona,Restaurant & Chef,,,2018
+Highlands Bar & Grill,Outstanding Restaurant,Birmingham, Alabama,Restaurant & Chef,,,2018
+Caroline Styne/ The Lucques Group,Outstanding Restaurateur,Los Angeles, California,,Restaurant & Chef,,,2018
+Aidlin Darling Design/ In Situ,Outstanding Restaurant Design (76 Seats and Over),San Francisco, California,,Restaurant & Chef,,,2018
+Arnaud’s French 75 Bar,Outstanding Bar Program,New Orleans, Louisiana,,Restaurant & Chef,,,2017
+AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,,Restaurant & Chef,,,2017
+Canlis,Outstanding Wine Program,Seattle, Washington,Restaurant & Chef,,,2017
+Michael Solomonov/ Zahav,Outstanding Chef,Philadelphia, Pennsylvania,Restaurant & Chef,,,2017
+Blue Hill at Stone Barns,Outstanding Service,Pocantico Hills, New York,,Restaurant & Chef,,,2017
+Sarah Grueneberg/ Monteverde,Best Chef: Great Lakes,Chicago, Illinois,,Restaurant & Chef,,,2017
+Zachary Engel/ Shaya,Rising Star Chef of the Year,New Orleans, Louisiana,,Restaurant & Chef,,,2017
+Sahadi's,America's Classics,Brooklyn, New York,,Restaurant & Chef,,,2017
+The Oyster Bar at Grand Central Terminal,Design Icon,New York,, New York,,,Restaurant & Chef,,,2017
 
-// name, type, city, state, category, year 
+
 
 Roger Berkowitz,Who's Who of Food & Beverage in America,Boston, Massachusetts,,2017
-Sam Calagione/ Dogfish Head Craft Brewery,Outstanding Wine Spirits or Beer Professional,Milton, Delaware, Restaurant & Chef,2017
-Andrew Taylor/ Eventide Oyster Co.,Best Chef: Northeast,Portland, Maine,Restaurant & Chef,2017
+Sam Calagione/ Dogfish Head Craft Brewery,Outstanding Wine Spirits or Beer Professional,Milton, Delaware, Restaurant & Chef,,2017
+Andrew Taylor/ Eventide Oyster Co.,Best Chef: Northeast,Portland, Maine,Restaurant & Chef,,2017
 Evan Kleiman,Who's Who of Food & Beverage in America,Santa Monica, California,,2017
-Canlis,Outstanding Wine Program,Seattle, Washington,Restaurant & Chef,2017
-Gabrielle Quinonez Denton/ Ox,Best Chef: Northwest,Portland, Oregon,Restaurant & Chef,2017
-Rebecca Wilcomb/ Herbsaint,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,2017
-La Taqueria,America's Classics,San Francisco, California,Restaurant & Chef,2017
-Schultz's Crab House,America's Classics,Essex, Maryland,Restaurant & Chef,2017
-Mike Wiley/ Eventide Oyster Co.,Best Chef: Northeast,Portland, Maine,Restaurant & Chef,2017
+Canlis,Outstanding Wine Program,Seattle, Washington,Restaurant & Chef,,2017
+Gabrielle Quinonez Denton/ Ox,Best Chef: Northwest,Portland, Oregon,Restaurant & Chef,,2017
+Rebecca Wilcomb/ Herbsaint,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,,2017
+La Taqueria,America's Classics,San Francisco, California,Restaurant & Chef,,2017
+Schultz's Crab House,America's Classics,Essex, Maryland,Restaurant & Chef,,2017
+Mike Wiley/ Eventide Oyster Co.,Best Chef: Northeast,Portland, Maine,Restaurant & Chef,,2017
 Michel Nischan,Who's Who of Food & Beverage in America,Bridgeport, Connecticut,,2017
-Marco Canora/ Hearth,Best Chef: New York,New York, New York,Restaurant & Chef,2017
-Sarah Grueneberg/ Monteverde,Best Chef: Great Lakes,Chicago, Illinois,Restaurant & Chef,2017
+Marco Canora/ Hearth,Best Chef: New York,New York, New York,Restaurant & Chef,,2017
+Sarah Grueneberg/ Monteverde,Best Chef: Great Lakes,Chicago, Illinois,Restaurant & Chef,,2017
 Denise Cerreta,Humanitarian of the Year,,,,2017
 Nora Pouillon/ Restaurant Nora,Lifetime Achievement,Washington, D.C., District of Columbia,2017
 Suzanne Goin,Who's Who of Food & Beverage in America,Los Angeles, California,,2017
-Gioia's Deli,America's Classics,St. Louis, Missouri,Restaurant & Chef,2017
-Zachary Engel/ Shaya,Rising Star Chef of the Year,New Orleans, Louisiana,Restaurant & Chef,2017
-Arnaud’s French 75 Bar,Outstanding Bar Program,New Orleans, Louisiana,Restaurant & Chef,2017
-Sahadi's,America's Classics,Brooklyn, New York,Restaurant & Chef,2017
-Ghaya Oliveira/ Daniel,Outstanding Pastry Chef,New York, New York,Restaurant & Chef,2017
-Blue Hill at Stone Barns,Outstanding Service,Pocantico Hills, New York,Restaurant & Chef,2017
-Mark Furstenberg/ Bread Furst,Outstanding Baker,Washington, District of Columbia,Restaurant & Chef,2017
-Meyer Davis/ St. Cecilia,Outstanding Restaurant Design (76 Seats and Over),Atlanta, Georgia,Restaurant & Chef,2017
-Steven Satterfield/ Miller Union,Best Chef: Southeast,Atlanta, Georgia,Restaurant & Chef,2017
-AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,Restaurant & Chef,2017
+Gioia's Deli,America's Classics,St. Louis, Missouri,Restaurant & Chef,,2017
+Zachary Engel/ Shaya,Rising Star Chef of the Year,New Orleans, Louisiana,Restaurant & Chef,,2017
+Arnaud’s French 75 Bar,Outstanding Bar Program,New Orleans, Louisiana,Restaurant & Chef,,2017
+Sahadi's,America's Classics,Brooklyn, New York,Restaurant & Chef,,2017
+Ghaya Oliveira/ Daniel,Outstanding Pastry Chef,New York, New York,Restaurant & Chef,,2017
+Blue Hill at Stone Barns,Outstanding Service,Pocantico Hills, New York,Restaurant & Chef,,2017
+Mark Furstenberg/ Bread Furst,Outstanding Baker,Washington, District of Columbia,Restaurant & Chef,,2017
+Meyer Davis/ St. Cecilia,Outstanding Restaurant Design (76 Seats and Over),Atlanta, Georgia,,Restaurant & Chef,,2017
+Steven Satterfield/ Miller Union,Best Chef: Southeast,Atlanta, Georgia,,Restaurant & Chef,,2017
+AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,Restaurant & Chef,,2017
 Rajat Parr,Who's Who of Food & Beverage in America,Lompoc, California,,2017
-The Oyster Bar at Grand Central Terminal,Design Icon,New York, New York,Restaurant & Chef,2017
-AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,Restaurant & Chef,2017
-Greg Vernick,Best Chef: Mid-Atlantic,Philadelphia, Pennsylvania,Restaurant & Chef,2017
-Le Coucou,Best New Restaurant,New York, New York,Restaurant & Chef,2017
-Shaya,Best New Restaurant,New Orleans, Louisiana,Restaurant & Chef,2016
-Eleven Madison Park,Outstanding Service,New York,New York,Restaurant & Chef,2016
+The Oyster Bar at Grand Central Terminal,Design Icon,New York, New York,Restaurant & Chef,,2017
+AvroKO/ SingleThread,Outstanding Restaurant Design (75 Seats and Under),Healdsburg, California,Restaurant & Chef,,2017
+Greg Vernick,Best Chef: Mid-Atlantic,Philadelphia, Pennsylvania,Restaurant & Chef,,2017
+Le Coucou,Best New Restaurant,New York, New York,Restaurant & Chef,,2017
+Shaya,Best New Restaurant,New Orleans, Louisiana,Restaurant & Chef,,2016
+Eleven Madison Park,Outstanding Service,New York,New York,Restaurant & Chef,,2016
 Jim Lahey,Who's Who of Food & Beverage in America,,,,2016
-Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,2016
-Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,2016
-Aaron Silverman/ Rose's Luxury,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,2016
-Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,2016
-Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,2016
-Zakary Pelaccio/ Fish & Game,Best Chef: Northeast,Hudson, New York,Restaurant & Chef,2016
-Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York,New York,Restaurant & Chef,2016
+Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,,2016
+Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,,2016
+Aaron Silverman/ Rose's Luxury,Best Chef: Mid-Atlantic,Washington, District of Columbia,Restaurant & Chef,,2016
+Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,,2016
+Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,,2016
+Zakary Pelaccio/ Fish & Game,Best Chef: Northeast,Hudson, New York,Restaurant & Chef,,2016
+Renzo Piano Building Workshop,Outstanding Restaurant Design (75 Seats and Under),New York,New York,Restaurant & Chef,,2016
 Gina Gallo,Who's Who of Food & Beverage in America,,,,2016
-Alex Von Bidder,Design Icon,New York, New York,Restaurant & Chef,2016
-Bern's Steak House,Outstanding Wine Program,Tampa, Florida,Restaurant & Chef,2016
-Daniela Soto-Innes/ Cosme,Rising Star Chef of the Year,New York,New York,Restaurant & Chef,2016
-Ken Friedman/ (The Spotted Pig/ The Breslin/ Tosca Cafe/ others),Outstanding Restaurateur,New York,New York,Restaurant & Chef,2016
-Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,2016
-Jon Shook/ Animal,Best Chef: West,Los Angeles, California,Restaurant & Chef,2016
-Matt’s Place,America's Classics,Butte, Montana,Restaurant & Chef,2016
-Paul Berglund/ The Bachelor Farmer,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,2016
+Alex Von Bidder,Design Icon,New York, New York,Restaurant & Chef,,2016
+Bern's Steak House,Outstanding Wine Program,Tampa, Florida,Restaurant & Chef,,2016
+Daniela Soto-Innes/ Cosme,Rising Star Chef of the Year,New York,New York,Restaurant & Chef,,2016
+Ken Friedman/ (The Spotted Pig/ The Breslin/ Tosca Cafe/ others),Outstanding Restaurateur,New York,New York,Restaurant & Chef,,2016
+Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,,2016
+Jon Shook/ Animal,Best Chef: West,Los Angeles, California,Restaurant & Chef,,2016
+Matt’s Place,America's Classics,Butte, Montana,Restaurant & Chef,,2016
+Paul Berglund/ The Bachelor Farmer,Best Chef: Midwest,Minneapolis, Minnesota,Restaurant & Chef,,2016
 Leah Chase,Lifetime Achievement,Dooky Chase's Restaurant,New Orleans, Louisiana,2016
-Bully’s Restaurant,America's Classics,Jackson, Mississippi,Restaurant & Chef,2016
-Alinea,Outstanding Restaurant,Chicago, Illinois,Restaurant & Chef,2016
-Rancho de Chimayo Restaurante,America's Classics,Chimayo, New Mexico,Restaurant & Chef,2016
-Curtis Duffy/ Grace,Best Chef: Great Lakes,Chicago, Illinois,Restaurant & Chef,2016
-Brooks’ House of Bar-B-Q,America's Classics,Oneonta, New York,Restaurant & Chef,2016
-Al Ameer Restaurant,America's Classics,Dearborn, Michigan,Restaurant & Chef,2016
+Bully’s Restaurant,America's Classics,Jackson, Mississippi,Restaurant & Chef,,2016
+Alinea,Outstanding Restaurant,Chicago, Illinois,Restaurant & Chef,,2016
+Rancho de Chimayo Restaurante,America's Classics,Chimayo, New Mexico,Restaurant & Chef,,2016
+Curtis Duffy/ Grace,Best Chef: Great Lakes,Chicago, Illinois,Restaurant & Chef,,2016
+Brooks’ House of Bar-B-Q,America's Classics,Oneonta, New York,Restaurant & Chef,,2016
+Al Ameer Restaurant,America's Classics,Dearborn, Michigan,Restaurant & Chef,,2016
 Ed Levine,Who's Who of Food & Beverage in America,,,,2016
-Dahlia Narvaez/ Osteria Mozza,Outstanding Pastry Chef,Los Angeles, California,Restaurant & Chef,2016
-Demian Repucci Design/ Bruno,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,2016
-Tandy Wilson/ City House,Best Chef: Southeast,Nashville, Tennessee,Restaurant & Chef,2016
-Ron Cooper/ Del Maguey Single Village Mezcal,Outstanding Wine Spirits or Beer Professional,Ranchos de Taos, New Mexico,Restaurant & Chef,2016
-Joanne Chang/ Flour Bakery + Cafe,Outstanding Baker,Boston, Massachusetts,Restaurant & Chef,2016
+Dahlia Narvaez/ Osteria Mozza,Outstanding Pastry Chef,Los Angeles, California,Restaurant & Chef,,2016
+Demian Repucci Design/ Bruno,Outstanding Restaurant Design (75 Seats and Under),New York, New York,Restaurant & Chef,,2016
+Tandy Wilson/ City House,Best Chef: Southeast,Nashville, Tennessee,Restaurant & Chef,,2016
+Ron Cooper/ Del Maguey Single Village Mezcal,Outstanding Wine Spirits or Beer Professional,Ranchos de Taos, New Mexico,Restaurant & Chef,,2016
+Joanne Chang/ Flour Bakery + Cafe,Outstanding Baker,Boston, Massachusetts,Restaurant & Chef,,2016
 Father Greg Boyle,Humanitarian of the Year,,,,2016
-Vinny Dotolo/ Animal,Best Chef: West,Los Angeles, California,Restaurant & Chef,2016
-Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,2016
-Justin Yu/ Oxheart,Best Chef: Southwest,Houston, Texas,Restaurant & Chef,2016
-Jonathan Waxman/ Barbuto,Best Chef: New York, New York, New York,Restaurant & Chef,2016
+Vinny Dotolo/ Animal,Best Chef: West,Los Angeles, California,Restaurant & Chef,,2016
+Land and Sea Dept./ Cherry Circle Room,Outstanding Restaurant Design (76 Seats and Over),Chicago, Illinois,Restaurant & Chef,,2016
+Justin Yu/ Oxheart,Best Chef: Southwest,Houston, Texas,Restaurant & Chef,,2016
+Jonathan Waxman/ Barbuto,Best Chef: New York, New York, New York,Restaurant & Chef,,2016
 Temple Grandin,Who's Who of Food & Beverage in America,,,,2016
-Suzanne Goin/ Lucques,Outstanding Chef,Los Angeles, California,Restaurant & Chef,2016
+Suzanne Goin/ Lucques,Outstanding Chef,Los Angeles, California,Restaurant & Chef,,2016
 Marcus Samuelsson,Who's Who of Food & Beverage in America,,,,2016
-Justin Devillier/ La Petite Grocery,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,2016
-Renee Erickson/ The Whale Wins,Best Chef: Northwest,Seattle, Washington,Restaurant & Chef,2016
-Maison Premiere,Outstanding Bar Program,Brooklyn, New York,Restaurant & Chef,2016
+Justin Devillier/ La Petite Grocery,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,,2016
+Renee Erickson/ The Whale Wins,Best Chef: Northwest,Seattle, Washington,Restaurant & Chef,,2016
+Maison Premiere,Outstanding Bar Program,Brooklyn, New York,Restaurant & Chef,,2016
 Dale Degroff,Who's Who of Food & Beverage in America,New York, New York,,2015
-Aaron Franklin/ Franklin Barbecue,Best Chef: Southwest,Austin, Texas,Restaurant & Chef,2015
-Jason Stanhope/ FIG,Best Chef: Southeast,Charleston, South Carolina,Restaurant & Chef,2015
-Michael Anthony/ Gramercy Tavern,Outstanding Chef,New York, New York,Restaurant & Chef,2015
-Rajat Parr/ Mina Group,Outstanding Wine Spirits or Beer Professional,San Francisco, California,Restaurant & Chef,2015
-Stuart Brioza/ State Bird Provisions,Best Chef: West,San Francisco, California,Restaurant & Chef,2015
-Beaumont Inn,America's Classics,Harrodsburg, Kentucky,Restaurant & Chef,2015
+Aaron Franklin/ Franklin Barbecue,Best Chef: Southwest,Austin, Texas,Restaurant & Chef,,2015
+Jason Stanhope/ FIG,Best Chef: Southeast,Charleston, South Carolina,Restaurant & Chef,,2015
+Michael Anthony/ Gramercy Tavern,Outstanding Chef,New York, New York,Restaurant & Chef,,2015
+Rajat Parr/ Mina Group,Outstanding Wine Spirits or Beer Professional,San Francisco, California,Restaurant & Chef,,2015
+Stuart Brioza/ State Bird Provisions,Best Chef: West,San Francisco, California,Restaurant & Chef,,2015
+Beaumont Inn,America's Classics,Harrodsburg, Kentucky,Restaurant & Chef,,2015
 Maricel Presilla,Who's Who of Food & Beverage in America,Hoboken, New Jersey,,2015
-Sally Bell's Kitchen,America's Classics,Richmond, Virginia,Restaurant & Chef,2015
-Alon Shaya/ Domenica,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,2015
-Jessica Largey/ Manresa,Rising Star Chef of the Year,Los Gatos, California,Restaurant & Chef,2015
+Sally Bell's Kitchen,America's Classics,Richmond, Virginia,Restaurant & Chef,,2015
+Alon Shaya/ Domenica,Best Chef: South,New Orleans, Louisiana,Restaurant & Chef,,2015
+Jessica Largey/ Manresa,Rising Star Chef of the Year,Los Gatos, California,Restaurant & Chef,,2015
 Wylie Dufresne,Who's Who of Food & Beverage in America,New York,, New York,2015
-Batard,Best New Restaurant,New York,New York,Restaurant & Chef,2015
+Batard,Best New Restaurant,New York,New York,Restaurant & Chef,,2015
 Allan Benton,Who's Who of Food & Beverage in America,Madisonville, Tennessee,,2015
 Michel Nischan,Humanitarian of the Year,,,,2015
-Jim Lahey/ Outstanding Baker,Sullivan Street Bakery,New York, New York,Restaurant & Chef,2015
-Jonathon Sawyer/ Greenhouse Tavern,Best Chef: Great Lakes,Cleveland, Ohio,Restaurant & Chef,2015
-The Barn at Blackberry Farm,Outstanding Service,Walland, Tennessee,Restaurant & Chef,2015
+Jim Lahey/ Outstanding Baker,Sullivan Street Bakery,New York, New York,Restaurant & Chef,,2015
+Jonathon Sawyer/ Greenhouse Tavern,Best Chef: Great Lakes,Cleveland, Ohio,Restaurant & Chef,,2015
+The Barn at Blackberry Farm,Outstanding Service,Walland, Tennessee,Restaurant & Chef,,2015
 Richard Melman/ Lettuce Entertain You Enterprises,Lifetime Achievement,Chicago, Illinois,,2015
 Nathalie Dupree,Who's Who of Food & Beverage in America,Charleston, South Carolina,,2015
-Nicole Krasinski/ State Bird Provisions,Best Chef: West,San Francisco, California,Restaurant & Chef,2015
-Bureau of Architecture and Design/ Brindille,Outstanding Restaurant Design (75 Seats and Under),Chicago, Illinois,Restaurant & Chef,2015
-SOMA/ Workshop Kitchen + Bar,Outstanding Restaurant Design (76 Seats and Over),Palm Springs, California,Restaurant & Chef,2015
-Mark Ladner/ Del Posto,Best Chef: New York, New York, New York,Restaurant & Chef,2015
+Nicole Krasinski/ State Bird Provisions,Best Chef: West,San Francisco, California,Restaurant & Chef,,2015
+Bureau of Architecture and Design/ Brindille,Outstanding Restaurant Design (75 Seats and Under),Chicago, Illinois,Restaurant & Chef,,2015
+SOMA/ Workshop Kitchen + Bar,Outstanding Restaurant Design (76 Seats and Over),Palm Springs, California,Restaurant & Chef,,2015
+Mark Ladner/ Del Posto,Best Chef: New York, New York, New York,Restaurant & Chef,,2015
+
+
+
+
+// name, type, city, state, category, year 
+
+Spike Gjerde
+Best Chef: Mid-Atlantic
+Woodberry Kitchen
+Baltimore, Maryland
+Restaurant & Chef,
+2015
+
+Bureau of Architecture and Design
+Outstanding Restaurant Design (75 Seats and Under)
+Brindille
+Chicago, Illinois
+Restaurant & Chef,
+2015
+
+Wylie Dufresne
+Who's Who of Food & Beverage in America
+New York, New York
+2015
+
+Blaine Wetzel
+Best Chef: Northwest
+The Willows Inn on Lummi Island
+Lummi Island, Washington
+Restaurant & Chef,
+2015
+
+Gerard Craft
+Best Chef: Midwest
+Niche
+Clayton, Missouri
+Restaurant & Chef,
+2015
+
+Aaron Franklin
+Best Chef: Southwest
+Franklin Barbecue
+Austin, Texas
+Restaurant & Chef,
+2015
+
+Mark Ladner
+Best Chef: New York City
+Del Posto
+New York, New York
+Restaurant & Chef,
+2015
+
+Sevilla Restaurant
+America's Classics
+New York, New York
+Restaurant & Chef,
+2015
+
+Nathalie Dupree
+Who's Who of Food & Beverage in America
+Charleston, South Carolina
+2015
+
+Dale Degroff
+Who's Who of Food & Beverage in America
+New York, New York
+2015
+
+Blue Hill at Stone Barns
+Outstanding Restaurant
+Pocantico Hills, New York
+Restaurant & Chef,
+2015
+
+Christina Tosi
+Outstanding Pastry Chef
+Momofuku
+New York, New York
+Restaurant & Chef,
+2015
+
+Vikram Sunderam
+Best Chef: Mid-Atlantic
+Rasika
+Washington, District of Columbia
+Restaurant & Chef,
+2014
+
+Jimmy Bannos
+Rising Star Chef of the Year
+The Purple Pig
+Chicago, Illinois
+Restaurant & Chef,
+2014
+
+Olneyville New York System
+America's Classics
+Providence, Rhode Island
+Restaurant & Chef,
+2014
+
+Justin Aprahamian
+Best Chef: Midwest
+Sanford
+Milwaukee, Wisconsin
+Restaurant & Chef,
+2014
+
+Hansen's Sno Bliz
+America's Classics
+New Orleans, Louisiana
+Restaurant & Chef,
+2014
+
+Naomi Pomeroy
+Best Chef: Northwest
+Beast
+Portland, Oregon
+Restaurant & Chef,
+2014
+
+Lawton Stanley Architects
+Outstanding Restaurant Design (75 Seats and Under)
+Grace
+Chicago, Illinois
+Restaurant & Chef,
+2014
+
+The Restaurant at Meadowood
+Outstanding Service
+St. Helena, California
+Restaurant & Chef,
+2014
+
+Dominique Ansel
+Outstanding Pastry Chef
+Dominique Ansel Bakery
+New York, New York
+Restaurant & Chef,
+2014
+
+Ryan Prewitt
+Best Chef: South
+Peche Seafood Grill
+New Orleans, Louisiana
+Restaurant & Chef,
+2014
+
+Jensen Architects
+Outstanding Restaurant Design (76 Seats and Over)
+Shed
+Healdsburg, California
+Restaurant & Chef,
+2014
+
+April Bloomfield
+Best Chef: New York City
+The Spotted Pig
+New York, New York
+Restaurant & Chef,
+2014
+
+Jamie Bissonnette
+Best Chef: Northeast
+Coppa
+Boston, Massachusetts
+Restaurant & Chef,
+2014
+
+Barbara Lynch
+Outstanding Restaurateur
+No. 9 Park, Menton, B&G Oysters, and others
+Boston, Massachusetts
+Restaurant & Chef,
+2014
+
+The Slanted Door
+Outstanding Restaurant
+San Francisco, California
+Restaurant & Chef,
+2014
+
+Dave Beran
+Best Chef: Great Lakes
+Next
+Chicago, Illinois
+Restaurant & Chef,
+2014
+
+Chris Shepherd
+Best Chef: Southwest
+Underbelly
+Houston, Texas
+Restaurant & Chef,
+2014
+
+Nancy Silverton
+Outstanding Chef
+Pizzeria Mozza
+Los Angeles, California
+Restaurant & Chef,
+2014
+
+The Barn at Blackberry Farm
+Outstanding Wine Program
+Walland, Tennessee
+Restaurant & Chef,
+2014
+
+Sue Zemanick
+Best Chef: South
+Gautreau's
+New Orleans, Louisiana
+Restaurant & Chef,
+2014
+
+Daniel Patterson
+Best Chef: West
+Coi
+San Francisco, California
+Restaurant & Chef,
+2014
+
+Nick's Italian Cafe
+America's Classics
+McMinnville, Oregon
+Restaurant & Chef,
+2014
+
+Peche Seafood Grill
+Best New Restaurant
+New Orleans, Louisiana
+Restaurant & Chef,
+2014
+
+The Bar at the NoMad Hotel
+Outstanding Bar Program
+New York, New York
+Restaurant & Chef,
+2014
+
+Garrett Oliver
+Outstanding Wine Spirits or Beer Professional
+Brooklyn Brewery
+Brooklyn, New York
+Restaurant & Chef,
+2014
+
+Perini Ranch Steakhouse
+America's Classics
+Buffalo Gap, Texas
+Restaurant & Chef,
+2014
+
+Blaine Wetzel
+Rising Star Chef of the Year
+The Willows Inn on Lummi Island
+Lummi Island, Washington
+Restaurant & Chef,
+2014
+
+Ashley Christensen
+Best Chef: Southeast
+Poole's Downtown Diner
+Raleigh, North Carolina
+Restaurant & Chef,
+2014
+
+Matthew Haley
+Humanitarian of the Year
+2014
+
+Sokolowski's University Inn
+America's Classics
+Cleveland, Ohio
+Restaurant & Chef,
+2014
+
+Sirio Maccioni
+Lifetime Achievement
+2014
+
+Blue Hill
+Outstanding Restaurant
+New York, New York
+Restaurant & Chef,
+2013
+
+Tory McPhail
+Best Chef: South
+Commander's Palace
+New Orleans, Louisiana
+Restaurant & Chef,
+2013
+
+Eric Asimov
+Who's Who of Food & Beverage in America
+New York, New York
+2013
+
+Frasca Food and Wine
+Outstanding Wine Program
+Boulder, Colorado
+Restaurant & Chef,
+2013
+
+Zarela Martinez
+Who's Who of Food & Beverage in America
+New York, New York
+2013
+
+Danny Bowien
+Rising Star Chef of the Year
+Mission Chinese Food
+San Francisco, California
+Restaurant & Chef,
+2013
+
+Christopher Kostow
+Best Chef: West
+The Restaurant at Meadowood
+St. Helena, California
+Restaurant & Chef,
+2013
+
+Stephanie Izard
+Best Chef: Great Lakes
+Girl & the Goat
+Chicago, Illinois
+Restaurant & Chef,
+2013
+
+Emeril Lagasse
+Humanitarian of the Year
+2013
+
+State Bird Provisions
+Best New Restaurant
+San Francisco, California
+Restaurant & Chef,
+2013
+
+Merry Edwards
+Outstanding Wine Spirits or Beer Professional
+Merry Edwards Winery
+Sebastopol, California
+Restaurant & Chef,
+2013
+
+Melissa Kelly
+Best Chef: Northeast
+Primo
+Rockland, Maine
+Restaurant & Chef,
+2013
+
+Dorothy Kalins
+Who's Who of Food & Beverage in America
+New York, New York
+2013
+
+Bill Yosses
+Who's Who of Food & Beverage in America
+Washington, District of Columbia
+2013
+
+Kramarczuk's
+America's Classics
+Minneapolis, Minnesota
+Restaurant & Chef,
+2013
+
+Barbara Lynch
+Who's Who of Food & Beverage in America
+Boston, Massachusetts
+2013
+
+Brooks Headley
+Outstanding Pastry Chef
+Del Posto
+New York, New York
+Restaurant & Chef,
+2013
+
+Del Posto
+Outstanding Service
+New York, New York
+Restaurant & Chef,
+2013
+
+Frank Fat's
+America's Classics
+Sacramento, California
+Restaurant & Chef,
+2013
+
+Cecilia Chiang
+Lifetime Achievement
+San Francisco, California
+2013
+
+Frank Fat's
+America's Classics
+Sacramento, California
+Restaurant & Chef,
+2013
+
+Johnny Monis
+Best Chef: Mid-Atlantic
+Komi
+Washington, District of Columbia
+Restaurant & Chef,
+2013
+
+Wylie Dufresne
+Best Chef: New York City
+wd-50
+New York, New York
+Restaurant & Chef,
+2013
+
+David Chang
+Outstanding Chef
+Momofuku Noodle Bar
+New York, New York
+Restaurant & Chef,
+2013
+
+Keens Steakhouse
+America's Classics
+New York, New York
+Restaurant & Chef,
+2013
+
+Taavo Somer
+Outstanding Restaurant Design (75 Seats and Under)
+Isa
+Brooklyn, New York
+Restaurant & Chef,
+2013
+
+Colby Garrelts
+Best Chef: Midwest
+Bluestem
+Kansas City, Missouri
+Restaurant & Chef,
+2013
+
+Alejandro Barrios Carrero Designs
+Outstanding Restaurant Design (76 Seats and Over)
+Juvia
+Miami Beach, Florida
+Restaurant & Chef,
+2013
+
+Jennifer Jasinski
+Best Chef: Southwest
+Rioja
+Denver, Colorado
+Restaurant & Chef,
+2013
+
+C.F. Folks
+America's Classics
+Washington, District of Columbia
+Restaurant & Chef,
+2013
+
+C.F. Folks
+America's Classics
+Washington, District of Columbia
+Restaurant & Chef,
+2013
+
+Prince's Hot Chicken Shack
+America's Classics
+Nashville, Tennessee
+Restaurant & Chef,
+2013
+
+The Aviary
+Outstanding Bar Program
+Chicago, Illinois
+Restaurant & Chef,
+2013
+
+Keens Steakhouse
+America's Classics
+New York, New York
+Restaurant & Chef,
+2013
+
+Gabriel Rucker
+Best Chef: Northwest
+Le Pigeon
+Portland, Oregon
+Restaurant & Chef,
+2013
+
+Prince's Hot Chicken Shack
+America's Classics
+Nashville, Tennessee
+Restaurant & Chef,
+2013
+
+Paul Kahan
+Outstanding Chef
+Blackbird
+Chicago, Illinois
+Restaurant & Chef,
+2013
+
+Joseph Lenn
+Best Chef: Southeast
+The Barn at Blackberry Farm
+Walland, Tennessee
+Restaurant & Chef,
+2013
+
+Kramarczuk's
+America's Classics
+Minneapolis, Minnesota
+Restaurant & Chef,
+2013
+
+Maguy Le Coze
+Outstanding Restaurateur
+Le Bernardin
+New York, New York
+Restaurant & Chef,
+2013
+
+Michael Mina
+Who's Who of Food & Beverage in America
+San Francisco, California
+2013
+
+Tom Douglas
+Outstanding Restaurateur
+Tom Douglas Restaurants
+Seattle, Washington
+Restaurant & Chef,
+2012
+
+Paul Qui
+Best Chef: Southwest
+Uchiko
+Austin, Texas
+Restaurant & Chef,
+2012
+
+Dana Cowin
+Who's Who of Food & Beverage in America
+New York, New York
+2012
+
+La Grenouille
+Outstanding Service
+New York, New York
+Restaurant & Chef,
+2012
+
+Maricel Presilla
+Best Chef: Mid-Atlantic
+Cucharamama
+Hoboken, New Jersey
+Restaurant & Chef,
+2012
+
+Michael Anthony
+Best Chef: New York City
+Gramercy Tavern
+New York, New York
+Restaurant & Chef,
+2012
+
+Mark Bittman
+Who's Who of Food & Beverage in America
+New York, New York
+2012
+
+Tim Cushman
+Best Chef: Northeast
+O Ya
+Boston, Massachusetts
+Restaurant & Chef,
+2012
+
+The Fry Bread House
+America's Classics
+Phoenix, Arizona
+Restaurant & Chef,
+2012
+
+Wolfgang Puck
+Lifetime Achievement
+Beverly Hills, California
+2012
+
+Daniel Humm/ Eleven Madison Park,Outstanding Chef,New York, New York,Restaurant & Chef,2012
+Paul Grieco/ Terroir,Outstanding Wine Spirits or Beer Professional,New York, New York,Restaurant & Chef,2012
+Nancy Cushman/ O Ya,Best Chef: Northeast,Boston, Massachusetts,Restaurant & Chef,2012
+Matt Dillon/ Sitka & Spruce,Best Chef: Northwest,Seattle, Washington,Restaurant & Chef,2012
+Bentel & Bentel Architects/ Le Bernardin,Outstanding Restaurant Design,New York, New York,Restaurant & Chef,2012
+Hugh Acheson/ Five and Ten,Best Chef: Southeast,Athens, Georgia,Restaurant & Chef,2012
+
+// page 4 below 
+
+Matt Dillon
+Best Chef: Northwest
+Sitka & Spruce
+Seattle, Washington
+Restaurant & Chef
+2012
+
+Bentel & Bentel Architects
+Outstanding Restaurant Design
+Le Bernardin
+New York, New York
+Restaurant & Chef
+2012
+
+Hugh Acheson
+Best Chef: Southeast
+Five and Ten
+Athens, Georgia
+Restaurant & Chef
+2012
+
+Tim Cushman
+Best Chef: Northeast
+O Ya
+Boston, Massachusetts
+Restaurant & Chef
+2012
+
+Mark Bittman
+Who's Who of Food & Beverage in America
+New York, New York
+2012
+
+Next
+Best New Restaurant
+Chicago, Illinois
+Restaurant & Chef
+2012
+
+Dana Cowin
+Who's Who of Food & Beverage in America
+New York, New York
+2012
+
+Emily Luchetti
+Who's Who of Food & Beverage in America
+San Francisco, California
+2012
+
+Grant Achatz
+Who's Who of Food & Beverage in America
+Chicago, Illinois
+2012
+
+Nancy Cushman
+Best Chef: Northeast
+O Ya
+Boston, Massachusetts
+Restaurant & Chef
+2012
+
+Christopher Hastings
+Best Chef: South
+Hot and Hot Fish Club
+Birmingham, Alabama
+Restaurant & Chef
+2012
+
+Daniel Humm
+Outstanding Chef
+Eleven Madison Park
+New York, New York
+Restaurant & Chef
+2012
+
+Linton Hopkins
+Best Chef: Southeast
+Restaurant Eugene
+Atlanta, Georgia
+Restaurant & Chef
+2012
+
+Boulevard
+Outstanding Restaurant
+San Francisco, California
+Restaurant & Chef
+2012
+
+La Grenouille
+Outstanding Service
+New York, New York
+Restaurant & Chef
+2012
+
+PDT
+Outstanding Bar Program
+New York, New York
+Restaurant & Chef
+2012
+
+Shady Glen
+America's Classics
+Manchester, Connecticut
+Restaurant & Chef
+2012
+
+Paul Grieco
+Outstanding Wine, Spirits, or Beer Professional
+Terroir
+New York, New York
+Restaurant & Chef
+2012
+
+Pandiscio Co.
+Outstanding Restaurant Graphics
+The Americano Hotel at Hotel Americano
+New York, New York
+Restaurant & Chef
+2012
+
+Maricel Presilla
+Best Chef: Mid-Atlantic
+Cucharamama
+Hoboken, New Jersey
+Restaurant & Chef
+2012
+
+Nick Valenti
+Who's Who of Food & Beverage in America
+New York, New York
+2011
+
+Julian Van Winkle
+Outstanding Wine & Spirits Professional
+Old Rip Van Winkle Distillery
+Louisville, Kentucky
+Restaurant & Chef
+2011
+
+Love and War
+Outstanding Restaurant Graphics
+The National Bar and Dining Rooms, NYC
+New York, New York
+Restaurant & Chef
+2011
+
+Michael Tusk
+Best Chef: Pacific
+Quince
+San Francisco, California
+Restaurant & Chef
+2011
+
+Le Veau d'Or
+America's Classics
+New York, New York
+Restaurant & Chef
+2011
+
+Le Veau d'Or
+America's Classics
+New York, New York
+Restaurant & Chef
+2011
+
+ABC Kitchen
+Best New Restaurant
+New York, New York
+Restaurant & Chef
+2011
+
+Gabrielle Hamilton
+Best Chef: New York City
+Prune
+New York, New York
+Restaurant & Chef
+2011
+
+Lee Jones
+Who's Who of Food & Beverage in America
+Huron, Ohio
+2011
+
+Eleven Madison Park
+Outstanding Restaurant
+New York, New York
+Restaurant & Chef
+2011
+
+José Andrés
+Outstanding Chef
+minibar
+Washington, District of Columbia
+Restaurant & Chef
+2011
+
+Crook's Corner
+America's Classics
+Chapel Hill, North Carolina
+Restaurant & Chef
+2011
+
+Per Se
+Outstanding Service
+New York, New York
+Restaurant & Chef
+2011
+
+Watts Tea Shop
+America's Classics
+Milwaukee, Wisconsin
+Restaurant & Chef
+2011
+
+Gabriel Rucker
+Rising Star Chef of the Year
+Le Pigeon
+Portland, Oregon
+Restaurant & Chef
+2011
+
+Noriega Restaurant and Hotel
+America's Classics
+Bakersfield, California
+Restaurant & Chef
+2011
+
+Aidlin Darling Design
+Outstanding Restaurant Design
+Bar Agricole
+San Francisco, California
+Restaurant & Chef
+2011
+
+Angela Pinkerton
+Outstanding Pastry Chef
+Eleven Madison Park
+New York, New York
+Restaurant & Chef
+2011
+
+Richard Melman
+Outstanding Restaurateur
+Lettuce Entertain You Enterprises
+Chicago, Illinois
+Restaurant & Chef
+2011
+
+ABC Kitchen
+Best New Restaurant
+New York, New York
+Restaurant & Chef
+2011
+
+Aidlin Darling Design
+Outstanding Restaurant Design
+Bar Agricole
+San Francisco, California
+Restaurant & Chef
+2011
+
+Isaac Becker
+Best Chef: Midwest
+112 Eatery
+Minneapolis, Minnesota
+Restaurant & Chef
+2011
+
+Jonathan Gold
+Who's Who of Food & Beverage in America
+Los Angeles, California
+2011
+
+Frank Stitt
+Who's Who of Food & Beverage in America
+Birmingham, Alabama
+2011
+
+Stephen Stryjewski
+Best Chef: South
+Cochon
+New Orleans, Louisiana
+Restaurant & Chef
+2011
+
+Charles Phan
+Who's Who of Food & Beverage in America
+San Francisco, California
+2011
+
+Christina Starr
+Humanitarian of the Year
+2011
+
+Kevin Zraly
+Lifetime Achievement
+New Paltz, New York
+2011
+
+Tyson Cole
+Best Chef: Southwest
+Uchi
+Austin, Texas
+Restaurant & Chef
+2011
+
+Aidlin Darling Design
+Outstanding Restaurant Design
+Bar Agricole
+San Francisco, California
+Restaurant & Chef
+2011
+
+Tony Maws
+Best Chef: Northeast
+Craigie On Main
+Cambridge, Massachusetts
+Restaurant & Chef
+2011
+
+Tina Gonsalves
+Humanitarian of the Year
+2011
+
+Saipin Chutima
+Best Chef: Southwest
+Lotus of Siam
+Las Vegas, Nevada
+Restaurant & Chef
+2011
+
+ABC Kitchen
+Best New Restaurant
+New York, New York
+Restaurant & Chef
+2011
+
+Alex Young
+Best Chef: Great Lakes
+Zingerman's Roadhouse
+Ann Arbor, Michigan
+Restaurant & Chef
+2011
+
+Eleven Madison Park
+Outstanding Restaurant
+New York, New York
+Restaurant & Chef
+2011
+
+Chef Vola's
+America's Classics
+Atlantic City, New Jersey
+Restaurant & Chef
+2011
+
+
+
+Andrea Reusing
+Best Chef: Southeast
+Lantern
+Chapel Hill, North Carolina
+Restaurant & Chef
+2011
+
+The Modern
+Outstanding Wine Service
+New York, New York
+Restaurant & Chef
+2011
+
+Crook's Corner
+America's Classics
+Chapel Hill, North Carolina
+Restaurant & Chef
+2011
+
+The Modern
+Outstanding Wine Service
+New York, New York
+Restaurant & Chef
+2011
+
+The Modern
+Outstanding Wine Service
+New York, New York
+Restaurant & Chef
+2011
+
+Crook's Corner
+America's Classics
+Chapel Hill, North Carolina
+Restaurant & Chef
+2011
+
+Noriega's
+America's Classics
+Bakersfield, California
+Restaurant & Chef
+2011
+
+Watts Tea Shop
+America's Classics
+Milwaukee, Wisconsin
+Restaurant & Chef
+2011
+
+Per Se
+Outstanding Service
+New York, New York
+Restaurant & Chef
+2011
+
+Andy Ricker
+Best Chef: Northwest
+Pok Pok
+Portland, Oregon
+Restaurant & Chef
+2011
+
+Michael Solomonov
+Best Chef: Mid-Atlantic
+Zahav
+Philadelphia, Pennsylvania
+Restaurant & Chef
+2011
+
+Claude Le Tohic
+Best Chef: Southwest
+Joel Robuchon at MGM Grand Hotel & Casino
+Las Vegas, Nevada
+Restaurant & Chef
+2010
+
+John Shafer
+Outstanding Wine & Spirits Professional
+Shafer Vineyards
+Napa, California
+Restaurant & Chef
+2010
+
+Doug Shafer
+Outstanding Wine & Spirits Professional
+Shafer Vineyards
+Napa, California
+Restaurant & Chef
+2010
+
+Jeff Michaud
+Best Chef: Mid-Atlantic
+Osteria
+Philadelphia, Pennsylvania
+Restaurant & Chef
+2010
+
+
+
+Daniel
+Outstanding Restaurant
+New York, New York
+Restaurant & Chef
+2010
+
+Wayne Kostroski
+Humanitarian of the Year
+2010
+
+Calumet Fisheries
+America's Classics
+Chicago, Illinois
+Restaurant & Chef
+2010
+
+Mary & Tito's Cafe
+America's Classics
+Albuquerque, New Mexico
+Restaurant & Chef
+2010
+
+Daniel Humm
+Best Chef: New York City
+Eleven Madison Park
+New York, New York
+Restaurant & Chef
+2010
+
+Koren Grieveson
+Best Chef: Great Lakes
+Avec
+Chicago, Illinois
+Restaurant & Chef
+2010
+
+Al's French Frys
+America's Classics
+Restaurant & Chef
+2010
+
+Al's French Frys
+America's Classics
+South Burlington, Vermont
+Restaurant & Chef
+2010
+
+Al's French Frys
+America's Classics
+South Burlington, Vermont
+Restaurant & Chef
+2010
+
+Nicole Plue
+Outstanding Pastry Chef
+Redd
+Yountville, California
+Restaurant & Chef
+2010
+
+L. Timothy Ryan
+Who's Who of Food & Beverage in America
+Hyde Park, New York
+2010
+
+Keith McNally
+Outstanding Restaurateur
+Balthazar/ Lucky Strike/ Minetta Tavern/ Morandi/ Pastis/ Pravda/ Schiller's Liquor Bar
+New York, New York
+Restaurant & Chef
+2010
+
+Jean Georges
+Outstanding Wine Service
+New York, New York
+Restaurant & Chef
+2010
+
+The Bright Star
+America's Classics
+Bessemer, Alabama
+Restaurant & Chef
+2010
+
+Alinea
+Outstanding Service
+Chicago, Illinois
+Restaurant & Chef
+2010
+
+The Bright Star
+America's Classics
+Bessemer, Alabama
+Restaurant & Chef
+2010
+
+The Bright Star
+America's Classics
+Bessemer, Alabama
+Restaurant & Chef
+2010
+
+The Bright Star
+America's Classics
+Bessemer, Alabama
+Restaurant & Chef
+2010
+
+Alinea
+Outstanding Service
+Chicago, Illinois
+Restaurant & Chef
+2010
+
+Alexander Roberts
+Best Chef: Midwest
+Restaurant Alma
+Minneapolis, Minnesota
+Restaurant & Chef
+2010
+
+Paul McIlhenny
+Who's Who of Food & Beverage in America
+Avery Island, Louisiana
+2010
+
+Pandiscio Co.
+Outstanding Restaurant Graphics
+The Standard Grill
+New York, New York
+Restaurant & Chef
+2010
+
+David Rockwell
+Who's Who of Food & Beverage in America
+New York, New York
+2010
+
+Clark Frasier
+Best Chef: Northeast
+Arrows
+Ogunquit, Maine
+Restaurant & Chef
+2010
+
+Mary & Tito's Cafe
+America's Classics
+Albuquerque, New Mexico
+Restaurant & Chef
+2010
+
+Tom Colicchio
+Outstanding Chef
+Craft
+New York, New York
+Restaurant & Chef
+2010
