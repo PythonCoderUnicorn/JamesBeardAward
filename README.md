@@ -5,7 +5,7 @@
 <img height='300' align='right' src="./james_beard_foundation_awards_medal.jpeg">
 
 
-- All data and information is from : https://www.jamesbeard.org/
+- All data and information is from : https://www.jamesbeard.org/ . Data collected on Noveember 12, 2022.
 
 
 ## About James Beard
@@ -28,6 +28,8 @@ Bragging rights, a handsome medal, an impressive certificate, a lot of publicity
 
 
 # Data Dictionary
+
+This data is on James Beard Award **Winners** of the Restaurant & Chef `category`.
 
 | column              |  description                      |
 |---------------------|-----------------------------------|
