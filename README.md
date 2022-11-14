@@ -2,7 +2,7 @@
 
 # James Beard Award
 
-<img src="./james_beard_foundation_awards_medal.jpeg">
+<img height='300' src="./james_beard_foundation_awards_medal.jpeg">
 
 a repo for James Beard Award data
 
