@@ -1,5 +1,9 @@
 
+
 # James Beard Award
+
+
+<img align='right' src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.eater.com%2F2020%2F5%2F4%2F21244021%2Fjames-beard-awards-2020-finalists-chefs-restaurants-media-cookbooks-journalism-jbfa&psig=AOvVaw2pcsxYoDlxEzpnEoRzGeTY&ust=1668529147895000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiIosuJrvsCFQAAAAAdAAAAABAJ">
 
 a repo for James Beard Award data
 
@@ -8,7 +12,7 @@ a repo for James Beard Award data
 
 ## About James Beard
 
-James Beard laid the groundwork for the food revolution that has put America at the forefront of global gastronomy. He was a pioneer foodie, host of the first food program on the fledgling medium of television in 1946 [...]. James Andrew Beard was born on May 5, 1903, in Portland, Oregon, to Elizabeth and John Beard. He studied briefly at Reed College in Portland, Oregon, in 1923, but was expelled. Reed claimed it was due to poor scholastic performance, but Beard maintained it was due to his homosexuality. in 1937, Beard finally realized that his future lay in the world of food and cooking.
+James Beard laid the groundwork for the food revolution that has put America at the forefront of global gastronomy. He was a pioneer foodie, host of the first food program on the fledgling medium of television in 1946 [...]. James Andrew Beard was born on May 5, 1903, in Portland, Oregon, to Elizabeth and John Beard. He studied briefly at Reed College in Portland, Oregon, in 1923, but was expelled. Reed claimed it was due to poor scholastic performance, but Beard maintained it was due to his homosexuality. In 1937, Beard finally realized that his future lay in the world of food and cooking.
 
 In 1940, Beard penned what was then the first major cookbook devoted exclusively to cocktail food, Hors d’Oeuvre & Canapés. Between 1945 and 1955 he wrote several seminal cookbooks, he appeared in his own segment on television’s first cooking show on NBC in 1946. In 1955, Beard established the James Beard Cooking School. 
 
