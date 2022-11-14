@@ -5,7 +5,7 @@
 <img height='300' align='right' src="./james_beard_foundation_awards_medal.jpeg">
 
 
-- All data and information is from : https://www.jamesbeard.org/ . Data collected on Noveember 12, 2022.
+- All data and information is from : https://www.jamesbeard.org/ . Data collected on November 12, 2022.
 
 
 ## About James Beard
