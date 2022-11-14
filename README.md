@@ -4,7 +4,6 @@
 
 <img height='300' align='right' src="./james_beard_foundation_awards_medal.jpeg">
 
-a repo for James Beard Award data
 
 - All data and information is from : https://www.jamesbeard.org/
 
@@ -25,6 +24,38 @@ The James Beard Foundation Awards, a.k.a. the Beard Awards, are the food industr
 ## What do James Beard Foundation Award winners receive?
 
 Bragging rights, a handsome medal, an impressive certificate, a lot of publicity, and the satisfaction of having been recognized by your peers. There are no cash awards.
+
+
+
+# Data Dictionary
+
+| column              |  description                      |
+|---------------------|-----------------------------------|
+| `name`              | name of Chef and/ or restaurant   |
+| `type`              | type of award                     |
+| `city`              | city of restaurant location       |
+| `state`             | state of restaurant location      |
+| `category`          | type of category for award        |
+| `year`              | the year award was given          |
+
+
+- the `name` column: 'Chef / restaurant' or 'Chef / business company'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
