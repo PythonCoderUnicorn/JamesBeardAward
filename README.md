@@ -2,6 +2,7 @@
 
 # James Beard Award
 
+![](https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.eater.com%2F2020%2F5%2F4%2F21244021%2Fjames-beard-awards-2020-finalists-chefs-restaurants-media-cookbooks-journalism-jbfa&psig=AOvVaw2pcsxYoDlxEzpnEoRzGeTY&ust=1668529147895000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiIosuJrvsCFQAAAAAdAAAAABAJ)
 
 <img align='right' src="https://www.google.ca/url?sa=i&url=https%3A%2F%2Fwww.eater.com%2F2020%2F5%2F4%2F21244021%2Fjames-beard-awards-2020-finalists-chefs-restaurants-media-cookbooks-journalism-jbfa&psig=AOvVaw2pcsxYoDlxEzpnEoRzGeTY&ust=1668529147895000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiIosuJrvsCFQAAAAAdAAAAABAJ">
 
